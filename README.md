@@ -20,3 +20,8 @@ Main scripts:
 
 Notes
 - I have been working first with G1Piek thomas conversation as a trial
+
+TO DO:
+
+- adapt script to chat with [Blenderbot](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb) 
+- average 
