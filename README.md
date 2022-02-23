@@ -11,3 +11,12 @@ python -m ipykernel install --name=evaluating-coversations-as-ekg
 
 jupyter lab
 ```
+
+
+Main scripts:
+- folder called dialogue_evaluation is Piek's code to average and correlate human annotations
+- folder called graph_evaluations is Selene's code to read RDF files, load them to a graph and compute metrics about it
+
+
+Notes
+- I have been working first with G1Piek thomas conversation as a trial
