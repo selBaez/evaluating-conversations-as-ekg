@@ -1,0 +1,47 @@
+System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,,,System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.37,0.25,0.5,,,Overall Human Rating,0.3,0.16,0.4
+Interesting,0.34,0.22,0.47,,,Interesting,0.3,0.17,0.41
+Engaging,0.34,0.21,0.46,,,Engaging,0.33,0.14,0.38
+Specific,0.34,0.21,0.46,,,Specific,0.33,0.14,0.38
+Relevant,0.39,0.26,0.51,,,Relevant,0.38,0.2,0.45
+Correct,0.37,0.26,0.51,,,Correct,0.42,0.25,0.5
+Semantically Appropriate,0.41,0.28,0.53,,,Semantically Appropriate,0.43,0.24,0.49
+Understandable,0.44,0.31,0.56,,,Understandable,0.43,0.25,0.5
+Fluent,0.46,0.34,0.58,,,Fluent,0.44,0.28,0.53
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,,,System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.16,0.04,0.2,,,Overall Human Rating,0.16,0.04,0.19
+Interesting,0.27,0.1,0.32,,,Interesting,0.3,0.11,0.34
+Engaging,0.3,0.12,0.34,,,Engaging,0.3,0.12,0.34
+Specific,0.3,0.12,0.34,,,Specific,0.3,0.12,0.34
+Relevant,0.18,0.05,0.23,,,Relevant,0.14,0.03,0.18
+Correct,0.2,0.06,0.25,,,Correct,0.14,0.03,0.18
+Semantically Appropriate,0.19,0.05,0.23,,,Semantically Appropriate,0.17,0.04,0.2
+Understandable,0.29,0.13,0.36,,,Understandable,0.19,0.06,0.24
+Fluent,0.31,0.14,0.38,,,Fluent,0.22,0.06,0.25
+,,,,,,,,,
+,,,,,,,,,
+System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,,,System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.3,0.13,0.36,,,Overall Human Rating,0.56,0.39,0.62
+Interesting,0.24,0.1,0.32,,,Interesting,0.3,0.14,0.37
+Engaging,0.28,0.13,0.36,,,Engaging,0.3,0.13,0.37
+Specific,0.28,0.13,0.36,,,Specific,0.3,0.13,0.37
+Relevant,0.33,0.17,0.41,,,Relevant,0.34,0.16,0.39
+Correct,0.36,0.18,0.42,,,Correct,0.28,0.12,0.35
+Semantically Appropriate,0.32,0.15,0.39,,,Semantically Appropriate,0.31,0.13,0.37
+Understandable,0.51,0.36,0.6,,,Understandable,0.33,0.14,0.38
+Fluent,0.43,0.25,0.5,,,Fluent,0.29,0.12,0.35
+,,,,,,,,,
+,,,,,,,,,
+System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,,,System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.28,0.11,0.34,,,Overall Human Rating,0.27,0.1,0.32
+Interesting,0.28,0.12,0.35,,,Interesting,0.23,0.09,0.29
+Engaging,0.25,0.1,0.31,,,Engaging,0.27,0.11,0.34
+Specific,0.25,0.1,0.31,,,Specific,0.27,0.11,0.34
+Relevant,0.25,0.09,0.31,,,Relevant,0.28,0.12,0.34
+Correct,0.26,0.1,0.32,,,Correct,0.26,0.1,0.32
+Semantically Appropriate,0.26,0.1,0.32,,,Semantically Appropriate,0.26,0.1,0.32
+Understandable,0.34,0.17,0.41,,,Understandable,0.29,0.12,0.34
+Fluent,0.39,0.22,0.47,,,Fluent,0.32,0.14,0.37

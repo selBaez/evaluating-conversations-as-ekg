@@ -1,0 +1,6 @@
+jupyterlab
+# cltl.brain==pin version
+pandas
+matplotlib
+seaborn
+networkx

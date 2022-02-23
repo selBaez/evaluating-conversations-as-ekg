@@ -1,0 +1,10 @@
+USR DLcontext,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.61,0.4,0.64
+Interesting,0.8,0.68,0.83
+Engaging,0.71,0.58,0.76
+Specific,0.71,0.58,0.76
+Relevant,0.48,0.29,0.54
+Correct,0.54,0.33,0.58
+Semantically Appropriate,0.58,0.39,0.63
+Understandable,0.4,0.19,0.43
+Fluent,0.56,0.37,0.61

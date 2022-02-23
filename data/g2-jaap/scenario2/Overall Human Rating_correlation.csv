@@ -1,0 +1,9 @@
+Overall Human Rating,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Interesting,0.21,0.05,0.23
+Engaging,0.2,0.05,0.23
+Specific,0.2,0.05,0.23
+Relevant,0.2,0.05,0.22
+Correct,0.09,0.02,0.13
+Semantically Appropriate,0.09,0.01,0.12
+Understandable,0.27,0.1,0.31
+Fluent,0.21,0.06,0.25

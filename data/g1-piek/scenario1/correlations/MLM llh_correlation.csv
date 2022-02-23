@@ -1,0 +1,10 @@
+MLM llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.42,0.28,0.53
+Interesting,0.45,0.28,0.53
+Engaging,0.41,0.27,0.52
+Specific,0.41,0.27,0.52
+Relevant,0.41,0.28,0.53
+Correct,0.45,0.31,0.55
+Semantically Appropriate,0.49,0.33,0.57
+Understandable,0.43,0.29,0.53
+Fluent,0.47,0.31,0.56

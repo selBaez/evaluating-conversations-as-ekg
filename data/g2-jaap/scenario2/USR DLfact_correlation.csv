@@ -1,0 +1,10 @@
+USR DLfact,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.62,0.42,0.65
+Interesting,0.82,0.69,0.83
+Engaging,0.73,0.6,0.77
+Specific,0.73,0.6,0.77
+Relevant,0.5,0.3,0.55
+Correct,0.55,0.35,0.59
+Semantically Appropriate,0.6,0.41,0.64
+Understandable,0.37,0.18,0.42
+Fluent,0.54,0.36,0.6

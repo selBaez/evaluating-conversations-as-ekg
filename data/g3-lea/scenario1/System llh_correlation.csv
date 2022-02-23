@@ -1,0 +1,10 @@
+System llh,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+Overall Human Rating,0.3,0.13,0.36
+Interesting,0.24,0.1,0.32
+Engaging,0.28,0.13,0.36
+Specific,0.28,0.13,0.36
+Relevant,0.33,0.17,0.41
+Correct,0.36,0.18,0.42
+Semantically Appropriate,0.32,0.15,0.39
+Understandable,0.51,0.36,0.6
+Fluent,0.43,0.25,0.5
