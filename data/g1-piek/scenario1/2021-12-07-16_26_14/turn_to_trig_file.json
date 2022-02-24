@@ -1,0 +1,500 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Leolani",
+    "Response": "What's up? What is your name? Stranger?",
+    "rdf_file": "brain_log_2021-12-07-16-26-24.trig"
+  },
+  {
+    "Turn": 1,
+    "Speaker": "Thomas",
+    "Response": "Thomas",
+    "rdf_file": null
+  },
+  {
+    "Turn": 2,
+    "Speaker": "Leolani",
+    "Response": "So your name is Thomas?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 3,
+    "Speaker": "Thomas",
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-07-16-27-12.trig"
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": null
+  },
+  {
+    "Turn": 5,
+    "Speaker": "Thomas",
+    "Response": "I like chatting",
+    "rdf_file": "brain_log_2021-12-07-16-28-00.trig"
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of Instance like chatting do person orInstance usually like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 7,
+    "Speaker": "Thomas",
+    "Response": "Person likes convos",
+    "rdf_file": "brain_log_2021-12-07-16-28-53.trig"
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types of noun orInstance like convos do tops orInstance usually like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 9,
+    "Speaker": "Thomas",
+    "Response": "Convos are not people",
+    "rdf_file": "brain_log_2021-12-07-16-30-05.trig"
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has convos work at institution?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 11,
+    "Speaker": "Thomas",
+    "Response": "I work at institution",
+    "rdf_file": "brain_log_2021-12-07-16-30-57.trig"
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has thomas experience touch?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 13,
+    "Speaker": "Thomas",
+    "Response": "I have experience touch",
+    "rdf_file": "brain_log_2021-12-07-16-31-46.trig"
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has thomas own object?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 15,
+    "Speaker": "Thomas",
+    "Response": "I own object",
+    "rdf_file": "brain_log_2021-12-07-16-32-25.trig"
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Leolani",
+    "Response": "Interesting! I am excited to get to know about you!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 17,
+    "Speaker": "Thomas",
+    "Response": "What do you want to know?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Leolani",
+    "Response": "I know agent usually want to verb.cognition, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 19,
+    "Speaker": "Thomas",
+    "Response": "I like sushi",
+    "rdf_file": "brain_log_2021-12-07-16-33-29.trig"
+  },
+  {
+    "Turn": 20,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I did not know anything that thomas like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 21,
+    "Speaker": "Thomas",
+    "Response": "I also like cats",
+    "rdf_file": "brain_log_2021-12-07-16-34-10.trig"
+  },
+  {
+    "Turn": 22,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types of animal orInstance like cats do person orInstance usually like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 23,
+    "Speaker": "Thomas",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 24,
+    "Speaker": "Leolani",
+    "Response": "And thus, I die",
+    "rdf_file": null
+  },
+  {
+    "Turn": 25,
+    "Speaker": "Leolani",
+    "Response": "What's up? I've told you my name, but what about yours? Thomas?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Fina",
+    "Response": "Fina",
+    "rdf_file": null
+  },
+  {
+    "Turn": 27,
+    "Speaker": "Leolani",
+    "Response": "So your name is Fina?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Fina",
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-07-16-35-24.trig"
+  },
+  {
+    "Turn": 29,
+    "Speaker": "Leolani",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": null
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Fina",
+    "Response": "I am from Bulgaria",
+    "rdf_file": "brain_log_2021-12-07-16-36-18.trig"
+  },
+  {
+    "Turn": 31,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types can fina be from",
+    "rdf_file": null
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Fina",
+    "Response": "Fina be from a country",
+    "rdf_file": "brain_log_2021-12-07-16-37-34.trig"
+  },
+  {
+    "Turn": 33,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I am excited to get to know about you!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Fina",
+    "Response": "What do you want to know?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 35,
+    "Speaker": "Leolani",
+    "Response": "I know agent usually want to verb.cognition, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Fina",
+    "Response": "I have a daughter",
+    "rdf_file": "brain_log_2021-12-07-16-38-47.trig"
+  },
+  {
+    "Turn": 37,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of daughter orInstance like a daughter do person orInstance usually have",
+    "rdf_file": null
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Fina",
+    "Response": "Her name is Iris",
+    "rdf_file": "brain_log_2021-12-07-16-39-36.trig"
+  },
+  {
+    "Turn": 39,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can lea name be",
+    "rdf_file": null
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Fina",
+    "Response": "Who is Lea?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 41,
+    "Speaker": "Leolani",
+    "Response": "I don't know",
+    "rdf_file": null
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Fina",
+    "Response": "My daughter is a girl",
+    "rdf_file": "brain_log_2021-12-07-16-40-45.trig"
+  },
+  {
+    "Turn": 43,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. Has a girl experience by a touch?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Fina",
+    "Response": "Girls experience touch",
+    "rdf_file": "brain_log_2021-12-07-16-42-24.trig"
+  },
+  {
+    "Turn": 45,
+    "Speaker": "Leolani",
+    "Response": "I see",
+    "rdf_file": null
+  },
+  {
+    "Turn": 46,
+    "Speaker": "Fina",
+    "Response": "Do you want to hear a story?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 47,
+    "Speaker": "Leolani",
+    "Response": "I know agent usually do want to verb.perception, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 48,
+    "Speaker": "Fina",
+    "Response": "I have to go",
+    "rdf_file": null
+  },
+  {
+    "Turn": 49,
+    "Speaker": "Leolani",
+    "Response": "I am glad to have learned something new. I did not know anybody who be to go",
+    "rdf_file": null
+  },
+  {
+    "Turn": 50,
+    "Speaker": "Fina",
+    "Response": "Bye",
+    "rdf_file": null
+  },
+  {
+    "Turn": 51,
+    "Speaker": "Leolani",
+    "Response": "Why?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 52,
+    "Speaker": "Leolani",
+    "Response": "Hey! Who are you? Fina?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 53,
+    "Speaker": "Imme",
+    "Response": "Imme",
+    "rdf_file": null
+  },
+  {
+    "Turn": 54,
+    "Speaker": "Leolani",
+    "Response": "So your name is Imme?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 55,
+    "Speaker": "Imme",
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-07-16-43-35.trig"
+  },
+  {
+    "Turn": 56,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": null
+  },
+  {
+    "Turn": 57,
+    "Speaker": "Imme",
+    "Response": "I love chatting",
+    "rdf_file": "brain_log_2021-12-07-16-44-30.trig"
+  },
+  {
+    "Turn": 58,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I did not know anything that imme love",
+    "rdf_file": null
+  },
+  {
+    "Turn": 59,
+    "Speaker": "Imme",
+    "Response": "What do you love?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 60,
+    "Speaker": "Leolani",
+    "Response": "I may be ignorant, bu tI don't know.I am sorry, I have no idea",
+    "rdf_file": null
+  },
+  {
+    "Turn": 61,
+    "Speaker": "Imme",
+    "Response": "I think you love food",
+    "rdf_file": "brain_log_2021-12-07-16-45-36.trig"
+  },
+  {
+    "Turn": 62,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. What types can leolani love",
+    "rdf_file": null
+  },
+  {
+    "Turn": 63,
+    "Speaker": "Imme",
+    "Response": "You like japanese food",
+    "rdf_file": "brain_log_2021-12-07-16-46-39.trig"
+  },
+  {
+    "Turn": 64,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has leolani ever favorite of a interest?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 65,
+    "Speaker": "Imme",
+    "Response": "I do not know",
+    "rdf_file": "brain_log_2021-12-07-16-48-15.trig"
+  },
+  {
+    "Turn": 66,
+    "Speaker": "Leolani",
+    "Response": "This is news to me. I did not know anybody who be know",
+    "rdf_file": null
+  },
+  {
+    "Turn": 67,
+    "Speaker": "Imme",
+    "Response": "What food do you like?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 68,
+    "Speaker": "Leolani",
+    "Response": "But at what cost?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 69,
+    "Speaker": "Imme",
+    "Response": "Do you like japanese food?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 70,
+    "Speaker": "Leolani",
+    "Response": "I know agent usually do like adj.pert, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 71,
+    "Speaker": "Imme",
+    "Response": "I love japanese food",
+    "rdf_file": "brain_log_2021-12-07-16-49-45.trig"
+  },
+  {
+    "Turn": 72,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about japanese food before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 73,
+    "Speaker": "Imme",
+    "Response": "What do you like?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 74,
+    "Speaker": "Leolani",
+    "Response": "you told me I like japanese food ",
+    "rdf_file": null
+  },
+  {
+    "Turn": 75,
+    "Speaker": "Imme",
+    "Response": "Do you like other things?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 76,
+    "Speaker": "Leolani",
+    "Response": "I know agent usually do like adj.all, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 77,
+    "Speaker": "Imme",
+    "Response": "I do also like other things",
+    "rdf_file": "brain_log_2021-12-07-16-51-15.trig"
+  },
+  {
+    "Turn": 78,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types of Instance like other things do agent orInstance usually like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 79,
+    "Speaker": "Imme",
+    "Response": "I also like cats and dogs",
+    "rdf_file": null
+  },
+  {
+    "Turn": 80,
+    "Speaker": "Leolani",
+    "Response": "So let it be written, ... so let it be done",
+    "rdf_file": null
+  },
+  {
+    "Turn": 81,
+    "Speaker": "Imme",
+    "Response": "bye",
+    "rdf_file": null
+  },
+  {
+    "Turn": 82,
+    "Speaker": "Leolani",
+    "Response": "... just like in my dream",
+    "rdf_file": null
+  }
+]

@@ -34,7 +34,7 @@ def get_avg_degree(graph: nx.Graph):
 
 
 def get_avg_degree_centr(graph: nx.Graph):
-    centrality = list(nx.degree_centrality((graph)).values())
+    centrality = list(nx.degree_centrality(graph).values())
     count = np.mean(centrality)
     return count
 
@@ -121,14 +121,12 @@ def get_shortest_path(graph: nx.Graph):
 def get_entropy_centr(graph: nx.Graph):
     centrality = list(nx.degree_centrality((graph)).values())
     num_entropy = entropy(centrality)
-    measure = 'centr_entropy'
     return num_entropy
 
 
 def get_entropy_clos(graph: nx.Graph):
     centrality = list(nx.closeness_centrality((graph)).values())
     num_entropy = entropy(centrality)
-    measure = 'clos_entropy'
     return num_entropy
 
 

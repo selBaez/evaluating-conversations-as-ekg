@@ -5,7 +5,6 @@ Credits to Romana Pernischova
 """
 
 import rdflib
-from rdflib.namespace import OWL
 
 
 def get_number_classes(graph: rdflib.Graph):
@@ -75,7 +74,7 @@ def get_ratio_inverse_relations(graph: rdflib.Graph, num_properties_inverse=None
     if num_properties_inverse == None:
         num_properties_inverse = get_number_inverse(graph)
 
-    return float(num_properties_inverse) / float(num_properties)
+    return float(num_properties_inverse) / float(num_properties) if num_properties != 0 else 0
 
 
 def get_property_class_ratio(graph: rdflib.Graph, num_properties=None, num_classes=None):
@@ -84,7 +83,7 @@ def get_property_class_ratio(graph: rdflib.Graph, num_properties=None, num_class
     if num_properties == None:
         num_properties = get_number_properties(graph)
 
-    return float(num_properties) / float(num_classes)
+    return float(num_properties) / float(num_classes) if num_classes != 0 else 0
 
 
 def get_class_property_ratio(graph: rdflib.Graph, num_classes=None, num_properties=None):
@@ -93,7 +92,7 @@ def get_class_property_ratio(graph: rdflib.Graph, num_classes=None, num_properti
     if num_properties == None:
         num_properties = get_number_properties(graph)
 
-    return float(num_classes) / float(num_properties)
+    return float(num_classes) / float(num_properties) if num_properties != 0 else 0
 
 
 def get_avg_population(graph: rdflib.Graph, num_instances=None, num_classes=None):
@@ -102,7 +101,7 @@ def get_avg_population(graph: rdflib.Graph, num_instances=None, num_classes=None
     if num_instances == None:
         num_instances = get_number_instances(graph)
 
-    return float(num_instances) / float(num_classes)
+    return float(num_instances) / float(num_classes) if num_classes != 0 else 0
 
 
 def get_attribute_richness(graph: rdflib.Graph, num_properties_datatype=None, num_properties=None):
@@ -112,7 +111,7 @@ def get_attribute_richness(graph: rdflib.Graph, num_properties_datatype=None, nu
     if num_properties_datatype == None:
         num_properties_datatype = get_number_properties_datatype(graph)
 
-    return float(num_properties_datatype) / float(num_properties)
+    return float(num_properties_datatype) / float(num_properties) if num_properties != 0 else 0
 
 
 def get_inheritance_richness(graph: rdflib.Graph, num_properties_subclass=None, num_properties=None):
@@ -121,7 +120,7 @@ def get_inheritance_richness(graph: rdflib.Graph, num_properties_subclass=None, 
     if num_properties_subclass == None:
         num_properties_subclass = get_number_properties_subclass(graph)
 
-    return float(num_properties_subclass) / float(num_properties)
+    return float(num_properties_subclass) / float(num_properties) if num_properties != 0 else 0
 
 
 def get_relationship_richness(graph: rdflib.Graph, num_properties=None, num_properties_subclass=None):
@@ -130,7 +129,7 @@ def get_relationship_richness(graph: rdflib.Graph, num_properties=None, num_prop
     if num_properties_subclass == None:
         num_properties_subclass = get_number_properties_subclass(graph)
 
-    return float(num_properties) / float(num_properties_subclass + num_properties)
+    return float(num_properties) / float(num_properties_subclass + num_properties) if num_properties != 0 else 0
 
 
 def get_ratio_object_properties(graph: rdflib.Graph, num_properties_object=None, num_properties=None):
@@ -139,7 +138,7 @@ def get_ratio_object_properties(graph: rdflib.Graph, num_properties_object=None,
     if num_properties_object == None:
         num_properties_object = get_number_properties_object(graph)
 
-    return float(num_properties_object) / float(num_properties)
+    return float(num_properties_object) / float(num_properties) if num_properties != 0 else 0
 
 
 def get_ratio_datatype_properties(graph: rdflib.Graph, num_properties_datatype=None, num_properties=None):
@@ -148,7 +147,7 @@ def get_ratio_datatype_properties(graph: rdflib.Graph, num_properties_datatype=N
     if num_properties_datatype == None:
         num_properties_datatype = get_number_properties_datatype(graph)
 
-    return float(num_properties_datatype) / float(num_properties)
+    return float(num_properties_datatype) / float(num_properties) if num_properties != 0 else 0
 
 
 ### Number of Axioms
