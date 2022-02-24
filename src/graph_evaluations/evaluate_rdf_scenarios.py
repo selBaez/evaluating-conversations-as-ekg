@@ -18,6 +18,7 @@ ABSOLUTE_PATH = os.path.dirname(os.path.realpath(__file__))
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g1-piek/scenario2/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-09_35_57/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-09-36/'
+SCENARIO_ID = 'g1s2'
 INPUT_FOLDER = DATA_FOLDER + f'human_evaluations/'
 OUTPUT_FOLDER = DATA_FOLDER + f'automatic_evaluations/'
 
@@ -184,7 +185,7 @@ def evaluate_conversation():
             rdf_df = copy_metrics(rdf_df, idx)
 
     full_df = avg_df.merge(rdf_df, left_on='Turn', right_on='Turn')
-    save('g1s1', full_df)
+    save(SCENARIO_ID, full_df)
 
     return avg_df
 
