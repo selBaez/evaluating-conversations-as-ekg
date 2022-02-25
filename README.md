@@ -33,7 +33,7 @@ TO DO:
   to chat with Blenderbot or DialogueGPT instead of user input. This script is a sample showing how to save data to
   EMISSOR and how to connect the CLTL packages
   
-- Run [automatic evaluations](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/dialogue_evaluation.ipynb) of Blenderbot or DialogueGPT conversations
+- Run [automatic evaluations](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/dialogue_evaluation.ipynb) of Blenderbot or DialogueGPT conversations. This also saves them as csv with columns ready for human evaluation. 
 - Run [graph evaluations](https://github.com/selBaez/evaluating-coversations-as-ekg/blob/main/src/graph_evaluations/evaluate_rdf_scenarios.py) of Blenderbot or DialogueGPT conversations
 
 
