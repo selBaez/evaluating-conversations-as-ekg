@@ -24,8 +24,8 @@ Main scripts:
 - folder called graph_evaluations is Selene's code to read RDF files, load them to a graph and compute metrics around it
 
 TO DO:
-- Look at the cltl-chatbots repo, follow install using requirements.txt  (use the old triple extractor so we can compare to student conversations)
-- Figure out bug
+- [Lea - current] Look at the cltl-chatbots repo, follow install using requirements.txt  (use the old triple extractor so we can compare to student conversations)
+- [Lea - next] Figure out bug
   in [Blenderbot](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb)
 - Figure out bug
   in [DialogueGPT](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb)
