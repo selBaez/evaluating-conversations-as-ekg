@@ -1,0 +1,12 @@
+@prefix leolaniFriends: <http://cltl.nl/leolani/friends/> .
+@prefix leolaniTalk: <http://cltl.nl/leolani/talk/> .
+@prefix leolaniWorld: <http://cltl.nl/leolani/world/> .
+@prefix n2mu: <http://cltl.nl/leolani/n2mu/> .
+@prefix xml1: <https://www.w3.org/TR/xmlschema-2/#> .
+
+leolaniTalk:Interactions {
+    leolaniFriends:caya n2mu:hasTrustworthinessLevel "0.5124422957813765"^^xml1:float .
+
+    leolaniFriends:mincke n2mu:hasTrustworthinessLevel "0.6111111111110451"^^xml1:float .
+}
+

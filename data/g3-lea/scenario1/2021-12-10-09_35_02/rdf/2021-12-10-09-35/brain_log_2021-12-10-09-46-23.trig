@@ -1,0 +1,1199 @@
+@prefix eps: <http://cltl.nl/episodicawareness/> .
+@prefix gaf: <http://groundedannotationframework.org/gaf#> .
+@prefix grasp: <http://groundedannotationframework.org/grasp#> .
+@prefix graspe: <http://groundedannotationframework.org/grasp/emotion#> .
+@prefix graspf: <http://groundedannotationframework.org/grasp/factuality#> .
+@prefix grasps: <http://groundedannotationframework.org/grasp/sentiment#> .
+@prefix leolaniContext: <http://cltl.nl/leolani/context/> .
+@prefix leolaniFriends: <http://cltl.nl/leolani/friends/> .
+@prefix leolaniInputs: <http://cltl.nl/leolani/inputs/> .
+@prefix leolaniTalk: <http://cltl.nl/leolani/talk/> .
+@prefix leolaniWorld: <http://cltl.nl/leolani/world/> .
+@prefix n2mu: <http://cltl.nl/leolani/n2mu/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix time: <http://www.w3.org/TR/owl-time/#> .
+@prefix xml1: <https://www.w3.org/TR/xmlschema-2/#> .
+
+leolaniWorld:mincke_be_caya-friend {
+    leolaniWorld:mincke n2mu:be leolaniWorld:Caya-friend .
+}
+
+leolaniWorld:all-people_can-smell_None {
+    leolaniWorld:All-people n2mu:can-smell leolaniWorld: .
+}
+
+leolaniWorld:ella_like_books {
+    leolaniWorld:ella n2mu:like leolaniWorld:books .
+}
+
+leolaniWorld:mincke_be_24-years-old {
+    leolaniWorld:mincke n2mu:be leolaniWorld:24-years-old .
+}
+
+leolaniWorld:Claims {
+    leolaniFriends:caya owl:sameAs leolaniWorld:caya .
+
+    leolaniFriends:mincke owl:sameAs leolaniWorld:mincke .
+
+    leolaniWorld:a-cake_be_a-dish a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "a-cake_be_a-dish" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16 .
+
+    leolaniWorld:a-dog_be_an-animal a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "a-dog_be_an-animal" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:a-laptop_be_a-object a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "a-laptop_be_a-object" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20 .
+
+    leolaniWorld:all-people_can-smell_None a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "all-people_can-smell_None" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20 .
+
+    leolaniWorld:apple-pie_be_a-cake a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "apple-pie_be_a-cake" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20 .
+
+    leolaniWorld:apple-pie_smell_good a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "apple-pie_smell_good" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21 .
+
+    leolaniWorld:caya_be_2-years-younger-than-mincke a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "caya_be_2-years-younger-than-mincke" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32 .
+
+    leolaniWorld:caya_be_an-equestrian a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "caya_be_an-equestrian" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18 .
+
+    leolaniWorld:caya_be_know a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "caya_be_know" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13 .
+
+    leolaniWorld:caya_like_pizza a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "caya_like_pizza" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12 .
+
+    leolaniWorld:ella_be_a-person a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "ella_be_a-person" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16 .
+
+    leolaniWorld:ella_like_books a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "ella_like_books" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16 .
+
+    leolaniWorld:it_be_raining a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "it_be_raining" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13 .
+
+    leolaniWorld:leolani2_know_caya a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani2_know_caya" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 .
+
+    leolaniWorld:leolani2_know_mincke a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani2_know_mincke" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44 .
+
+    leolaniWorld:leolani_know_caya a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani_know_caya" .
+
+    leolaniWorld:leolani_know_mincke a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani_know_mincke" .
+
+    leolaniWorld:leolani_sense_front-camera a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani_sense_front-camera" .
+
+    leolaniWorld:lions_be_territorial-animals a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "lions_be_territorial-animals" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29 .
+
+    leolaniWorld:mincke_be_24-years-old a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "mincke_be_24-years-old" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22 .
+
+    leolaniWorld:mincke_be_caya-friend a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "mincke_be_caya-friend" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19 .
+
+    leolaniWorld:mincke_like_apple-pie a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "mincke_like_apple-pie" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22 .
+
+    leolaniWorld:mincke_like_cats a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "mincke_like_cats" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18 .
+
+    leolaniWorld:mincke_live-in_utrecht a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "mincke_live-in_utrecht" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23 .
+}
+
+leolaniWorld:apple-pie_smell_good {
+    leolaniWorld:Apple-pie n2mu:smell leolaniWorld:good .
+}
+
+leolaniTalk:Perspectives {
+    leolaniTalk:a-cake_be_a-dish_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "a-cake_be_a-dish_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:a-laptop_be_a-object_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "a-laptop_be_a-object_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:all-people_can-smell_None_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "all-people_can-smell_None_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:apple-pie_be_a-cake_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "apple-pie_be_a-cake_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:apple-pie_smell_good_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "apple-pie_smell_good_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:caya_be_2-years-younger-than-mincke_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "caya_be_2-years-younger-than-mincke_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:caya_be_an-equestrian_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "caya_be_an-equestrian_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:caya_be_know_CERTAIN-NEGATIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "caya_be_know_CERTAIN-NEGATIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:NEGATIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:caya_like_pizza_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "caya_like_pizza_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:POSITIVE .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20" ;
+        gaf:containsDenotation leolaniWorld:,
+            leolaniWorld:All-people ;
+        gaf:denotes leolaniWorld:all-people_can-smell_None ;
+        grasp:hasAttribution leolaniTalk:all-people_can-smell_None_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "All people can smell"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16" ;
+        gaf:containsDenotation leolaniWorld:books,
+            leolaniWorld:ella ;
+        gaf:denotes leolaniWorld:ella_like_books ;
+        grasp:hasAttribution leolaniTalk:ella_like_books_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Ella likes books"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13" ;
+        gaf:containsDenotation leolaniWorld:it,
+            leolaniWorld:raining ;
+        gaf:denotes leolaniWorld:it_be_raining ;
+        grasp:hasAttribution leolaniTalk:it_be_raining_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "It is raining"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12" ;
+        gaf:containsDenotation leolaniWorld:Caya,
+            leolaniWorld:pizza ;
+        gaf:denotes leolaniWorld:caya_like_pizza ;
+        grasp:hasAttribution leolaniTalk:caya_like_pizza_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "I like pizza"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20" ;
+        gaf:containsDenotation leolaniWorld:A-laptop,
+            leolaniWorld:a-object ;
+        gaf:denotes leolaniWorld:a-laptop_be_a-object ;
+        grasp:hasAttribution leolaniTalk:a-laptop_be_a-object_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "A laptop is a object"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22" ;
+        gaf:containsDenotation leolaniWorld:Caya,
+            leolaniWorld:Leolani2 ;
+        gaf:denotes leolaniWorld:leolani2_know_caya ;
+        grasp:hasAttribution leolaniTalk:leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Hi! Who are you? Caya?"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23" ;
+        gaf:containsDenotation leolaniWorld:Utrecht,
+            leolaniWorld:mincke ;
+        gaf:denotes leolaniWorld:mincke_live-in_utrecht ;
+        grasp:hasAttribution leolaniTalk:mincke_live-in_utrecht_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Mincke lives in Utrecht"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44" ;
+        gaf:containsDenotation leolaniWorld:Leolani2,
+            leolaniWorld:Mincke ;
+        gaf:denotes leolaniWorld:leolani2_know_mincke ;
+        grasp:hasAttribution leolaniTalk:leolani2_know_mincke_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:mincke ;
+        rdf:value "Hey! I would like to know your name! Mincke?"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22" ;
+        gaf:containsDenotation leolaniWorld:Apple-pie,
+            leolaniWorld:mincke ;
+        gaf:denotes leolaniWorld:mincke_like_apple-pie ;
+        grasp:hasAttribution leolaniTalk:mincke_like_apple-pie_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Mincke likes Apple pie"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21" ;
+        gaf:containsDenotation leolaniWorld:Apple-pie,
+            leolaniWorld:good ;
+        gaf:denotes leolaniWorld:apple-pie_smell_good ;
+        grasp:hasAttribution leolaniTalk:apple-pie_smell_good_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Apple pie smells good"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18" ;
+        gaf:containsDenotation leolaniWorld:Mincke,
+            leolaniWorld:cats ;
+        gaf:denotes leolaniWorld:mincke_like_cats ;
+        grasp:hasAttribution leolaniTalk:mincke_like_cats_CERTAIN-NEGATIVE-POSITIVE-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:mincke ;
+        rdf:value "I do not like cats"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29" ;
+        gaf:containsDenotation leolaniWorld:lions,
+            leolaniWorld:territorial-animals ;
+        gaf:denotes leolaniWorld:lions_be_territorial-animals ;
+        grasp:hasAttribution leolaniTalk:lions_be_territorial-animals_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Lions are territorial animals"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19" ;
+        gaf:containsDenotation leolaniWorld:Caya-friend,
+            leolaniWorld:mincke ;
+        gaf:denotes leolaniWorld:mincke_be_caya-friend ;
+        grasp:hasAttribution leolaniTalk:mincke_be_caya-friend_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Mincke is my friend"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18" ;
+        gaf:containsDenotation leolaniWorld:A-dog,
+            leolaniWorld:an-animal ;
+        gaf:denotes leolaniWorld:a-dog_be_an-animal ;
+        grasp:hasAttribution leolaniTalk:a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "A dog is an animal"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13" ;
+        gaf:containsDenotation leolaniWorld:Caya,
+            leolaniWorld:know ;
+        gaf:denotes leolaniWorld:caya_be_know ;
+        grasp:hasAttribution leolaniTalk:caya_be_know_CERTAIN-NEGATIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "I do not know"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16" ;
+        gaf:containsDenotation leolaniWorld:a-person,
+            leolaniWorld:ella ;
+        gaf:denotes leolaniWorld:ella_be_a-person ;
+        grasp:hasAttribution leolaniTalk:ella_be_a-person_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Ella is a person"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32" ;
+        gaf:containsDenotation leolaniWorld:2-years-younger-than-Mincke,
+            leolaniWorld:Caya ;
+        gaf:denotes leolaniWorld:caya_be_2-years-younger-than-mincke ;
+        grasp:hasAttribution leolaniTalk:caya_be_2-years-younger-than-mincke_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "I am 2 years younger than Mincke"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20" ;
+        gaf:containsDenotation leolaniWorld:Apple-pie,
+            leolaniWorld:a-cake ;
+        gaf:denotes leolaniWorld:apple-pie_be_a-cake ;
+        grasp:hasAttribution leolaniTalk:apple-pie_be_a-cake_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Apple pie is a cake "^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16" ;
+        gaf:containsDenotation leolaniWorld:A-cake,
+            leolaniWorld:a-dish ;
+        gaf:denotes leolaniWorld:a-cake_be_a-dish ;
+        grasp:hasAttribution leolaniTalk:a-cake_be_a-dish_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "A cake is a dish"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22" ;
+        gaf:containsDenotation leolaniWorld:24-years-old,
+            leolaniWorld:mincke ;
+        gaf:denotes leolaniWorld:mincke_be_24-years-old ;
+        grasp:hasAttribution leolaniTalk:mincke_be_24-years-old_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Mincke is 24 years old"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18" ;
+        gaf:containsDenotation leolaniWorld:Caya,
+            leolaniWorld:an-equestrian ;
+        gaf:denotes leolaniWorld:caya_be_an-equestrian ;
+        grasp:hasAttribution leolaniTalk:caya_be_an-equestrian_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "I am an equestrian"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554 .
+
+    leolaniTalk:ella_be_a-person_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "ella_be_a-person_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:ella_like_books_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "ella_like_books_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:POSITIVE .
+
+    leolaniTalk:it_be_raining_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "it_be_raining_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:UNDERSPECIFIED,
+            grasps:UNDERSPECIFIED .
+
+    leolaniTalk:leolani2_know_mincke_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "leolani2_know_mincke_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:UNDERSPECIFIED,
+            grasps:UNDERSPECIFIED .
+
+    leolaniTalk:lions_be_territorial-animals_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "lions_be_territorial-animals_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:mincke_be_24-years-old_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "mincke_be_24-years-old_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:mincke_be_caya-friend_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "mincke_be_caya-friend_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:mincke_like_apple-pie_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "mincke_like_apple-pie_CERTAIN-POSITIVE-POSITIVE-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:POSITIVE .
+
+    leolaniTalk:mincke_like_cats_CERTAIN-NEGATIVE-POSITIVE-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "mincke_like_cats_CERTAIN-NEGATIVE-POSITIVE-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:NEGATIVE,
+            grasps:POSITIVE .
+
+    leolaniTalk:mincke_live-in_utrecht_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "mincke_live-in_utrecht_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    graspf:NEGATIVE a grasp:AttributionValue,
+            graspf:PolarityValue ;
+        rdfs:label "NEGATIVE" .
+
+    graspf:UNDERSPECIFIED a grasp:AttributionValue,
+            graspf:CertaintyValue,
+            graspf:PolarityValue ;
+        rdfs:label "UNDERSPECIFIED" .
+
+    grasps:UNDERSPECIFIED a grasp:AttributionValue,
+            grasps:SentimentValue ;
+        rdfs:label "UNDERSPECIFIED" .
+
+    grasps:POSITIVE a grasp:AttributionValue,
+            grasps:SentimentValue ;
+        rdfs:label "POSITIVE" .
+
+    grasps:NEUTRAL a grasp:AttributionValue,
+            grasps:SentimentValue ;
+        rdfs:label "NEUTRAL" .
+
+    graspf:POSITIVE a grasp:AttributionValue,
+            graspf:PolarityValue ;
+        rdfs:label "POSITIVE" .
+
+    graspf:CERTAIN a grasp:AttributionValue,
+            graspf:CertaintyValue ;
+        rdfs:label "CERTAIN" .
+
+    graspe:UNDERSPECIFIED a grasp:AttributionValue,
+            graspe:EmotionValue ;
+        rdfs:label "UNDERSPECIFIED" .
+}
+
+leolaniWorld:leolani_know_caya {
+    leolaniWorld:leolani n2mu:know leolaniFriends:caya .
+}
+
+leolaniWorld:leolani_sense_front-camera {
+    leolaniWorld:leolani n2mu:sense leolaniInputs:front-camera .
+}
+
+leolaniTalk:Interactions {
+    leolaniContext:contextLeolani2 a eps:Context ;
+        rdfs:label "contextLeolani2" ;
+        n2mu:id "Leolani2"^^xml1:string ;
+        sem:hasBeginTimeStamp leolaniContext:2021-12-10 ;
+        sem:hasEvent leolaniTalk:chat2021-12-10-09:35:02,
+            leolaniTalk:visual2021-12-10-09:35:02 ;
+        sem:hasPlace leolaniContext:amsterdam .
+
+    leolaniContext:2021-12-10 a sem:Time,
+            time:DateTimeDescription ;
+        rdfs:label "2021-12-10" ;
+        time:day "10"^^xml1:gDay ;
+        time:month "12"^^xml1:gMonthDay ;
+        time:unitType time:unitDay ;
+        time:year "2021"^^xml1:gYear .
+
+    leolaniContext:amsterdam a n2mu:location,
+            sem:Place ;
+        rdfs:label "amsterdam" ;
+        n2mu:id "165"^^xml1:string ;
+        n2mu:in leolaniWorld:Amsterdam,
+            leolaniWorld:NL,
+            leolaniWorld:North_Holland .
+
+    leolaniTalk:chat2021-12-10-09:35:02 a grasp:Chat,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02" ;
+        n2mu:id "2021-12-10-09:35:02"^^xml1:string ;
+        sem:hasSubEvent leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991" ;
+        n2mu:id "283a15db-25f3-4902-9c88-eae97213f991"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77" ;
+        n2mu:id "283e18bf-f1cb-4235-ad11-746e86eaef77"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94" ;
+        n2mu:id "2a0af0e1-e26c-47b3-a29f-dc07c89d1b94"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91" ;
+        n2mu:id "2a55c1ac-237f-4f2d-9beb-520eba4e1c91"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2" ;
+        n2mu:id "4c5dd6e4-4d95-4185-b727-18fefbdfb6d2"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85" ;
+        n2mu:id "4e59a49f-da85-435e-8332-883772bfcc85"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c" ;
+        n2mu:id "52597939-154c-4464-a317-30cd48bd132c"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083" ;
+        n2mu:id "727eaf01-3d2c-4280-9d84-db92f3496083"^^xml1:string ;
+        sem:hasActor leolaniFriends:mincke .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7" ;
+        n2mu:id "82444417-76cd-4bad-83ac-51773d19c8d7"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586" ;
+        n2mu:id "9c1f11a6-0800-4c72-8743-2ede96f60586"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77" ;
+        n2mu:id "af1dce07-f907-474b-a378-d9a5821fcb77"^^xml1:string ;
+        sem:hasActor leolaniFriends:mincke .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f" ;
+        n2mu:id "b2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9" ;
+        n2mu:id "b665bf1d-04f1-431d-8f8f-4c9c81e8d3c9"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0" ;
+        n2mu:id "b7ef46da-1d13-466b-8835-b8df20755ec0"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489" ;
+        n2mu:id "c31afd26-32f3-41a0-8aba-67be818f2489"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe" ;
+        n2mu:id "cdaadf74-ff38-458a-ae26-e3378a055dbe"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09" ;
+        n2mu:id "d5045ade-8fbf-4c15-ab25-bf6f8a83eb09"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4" ;
+        n2mu:id "d63de0cd-bfb3-472c-a667-224d07d970b4"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446" ;
+        n2mu:id "eb5d1904-a051-492d-b7e3-ea59bc563446"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4" ;
+        n2mu:id "f6064ef1-240b-47a4-b5db-2fc3a14d7dd4"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554" ;
+        n2mu:id "fb1faf78-ec70-42d3-b0c7-eb2198476554"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:visual2021-12-10-09:35:02 a grasp:Visual,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02" ;
+        n2mu:id "2021-12-10-09:35:02"^^xml1:string ;
+        sem:hasSubEvent leolaniTalk:visual2021-12-10-09:35:02_detection283a15db-25f3-4902-9c88-eae97213f991,
+            leolaniTalk:visual2021-12-10-09:35:02_detection283e18bf-f1cb-4235-ad11-746e86eaef77,
+            leolaniTalk:visual2021-12-10-09:35:02_detection2a0af0e1-e26c-47b3-a29f-dc07c89d1b94,
+            leolaniTalk:visual2021-12-10-09:35:02_detection2a55c1ac-237f-4f2d-9beb-520eba4e1c91,
+            leolaniTalk:visual2021-12-10-09:35:02_detection4c5dd6e4-4d95-4185-b727-18fefbdfb6d2,
+            leolaniTalk:visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85,
+            leolaniTalk:visual2021-12-10-09:35:02_detection52597939-154c-4464-a317-30cd48bd132c,
+            leolaniTalk:visual2021-12-10-09:35:02_detection727eaf01-3d2c-4280-9d84-db92f3496083,
+            leolaniTalk:visual2021-12-10-09:35:02_detection82444417-76cd-4bad-83ac-51773d19c8d7,
+            leolaniTalk:visual2021-12-10-09:35:02_detection9c1f11a6-0800-4c72-8743-2ede96f60586,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionaf1dce07-f907-474b-a378-d9a5821fcb77,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionc31afd26-32f3-41a0-8aba-67be818f2489,
+            leolaniTalk:visual2021-12-10-09:35:02_detectioncdaadf74-ff38-458a-ae26-e3378a055dbe,
+            leolaniTalk:visual2021-12-10-09:35:02_detectiond5045ade-8fbf-4c15-ab25-bf6f8a83eb09,
+            leolaniTalk:visual2021-12-10-09:35:02_detectiond63de0cd-bfb3-472c-a667-224d07d970b4,
+            leolaniTalk:visual2021-12-10-09:35:02_detectioneb5d1904-a051-492d-b7e3-ea59bc563446,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionf6064ef1-240b-47a4-b5db-2fc3a14d7dd4,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionfb1faf78-ec70-42d3-b0c7-eb2198476554 .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection283a15db-25f3-4902-9c88-eae97213f991 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection283a15db-25f3-4902-9c88-eae97213f991" ;
+        n2mu:id "283a15db-25f3-4902-9c88-eae97213f991"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection283e18bf-f1cb-4235-ad11-746e86eaef77 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection283e18bf-f1cb-4235-ad11-746e86eaef77" ;
+        n2mu:id "283e18bf-f1cb-4235-ad11-746e86eaef77"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection2a0af0e1-e26c-47b3-a29f-dc07c89d1b94 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection2a0af0e1-e26c-47b3-a29f-dc07c89d1b94" ;
+        n2mu:id "2a0af0e1-e26c-47b3-a29f-dc07c89d1b94"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection2a55c1ac-237f-4f2d-9beb-520eba4e1c91 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection2a55c1ac-237f-4f2d-9beb-520eba4e1c91" ;
+        n2mu:id "2a55c1ac-237f-4f2d-9beb-520eba4e1c91"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection4c5dd6e4-4d95-4185-b727-18fefbdfb6d2 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection4c5dd6e4-4d95-4185-b727-18fefbdfb6d2" ;
+        n2mu:id "4c5dd6e4-4d95-4185-b727-18fefbdfb6d2"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85" ;
+        n2mu:id "4e59a49f-da85-435e-8332-883772bfcc85"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection52597939-154c-4464-a317-30cd48bd132c a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection52597939-154c-4464-a317-30cd48bd132c" ;
+        n2mu:id "52597939-154c-4464-a317-30cd48bd132c"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection727eaf01-3d2c-4280-9d84-db92f3496083 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection727eaf01-3d2c-4280-9d84-db92f3496083" ;
+        n2mu:id "727eaf01-3d2c-4280-9d84-db92f3496083"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection82444417-76cd-4bad-83ac-51773d19c8d7 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection82444417-76cd-4bad-83ac-51773d19c8d7" ;
+        n2mu:id "82444417-76cd-4bad-83ac-51773d19c8d7"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection9c1f11a6-0800-4c72-8743-2ede96f60586 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection9c1f11a6-0800-4c72-8743-2ede96f60586" ;
+        n2mu:id "9c1f11a6-0800-4c72-8743-2ede96f60586"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionaf1dce07-f907-474b-a378-d9a5821fcb77 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionaf1dce07-f907-474b-a378-d9a5821fcb77" ;
+        n2mu:id "af1dce07-f907-474b-a378-d9a5821fcb77"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f" ;
+        n2mu:id "b2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9" ;
+        n2mu:id "b665bf1d-04f1-431d-8f8f-4c9c81e8d3c9"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0" ;
+        n2mu:id "b7ef46da-1d13-466b-8835-b8df20755ec0"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionc31afd26-32f3-41a0-8aba-67be818f2489 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionc31afd26-32f3-41a0-8aba-67be818f2489" ;
+        n2mu:id "c31afd26-32f3-41a0-8aba-67be818f2489"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectioncdaadf74-ff38-458a-ae26-e3378a055dbe a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectioncdaadf74-ff38-458a-ae26-e3378a055dbe" ;
+        n2mu:id "cdaadf74-ff38-458a-ae26-e3378a055dbe"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectiond5045ade-8fbf-4c15-ab25-bf6f8a83eb09 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectiond5045ade-8fbf-4c15-ab25-bf6f8a83eb09" ;
+        n2mu:id "d5045ade-8fbf-4c15-ab25-bf6f8a83eb09"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectiond63de0cd-bfb3-472c-a667-224d07d970b4 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectiond63de0cd-bfb3-472c-a667-224d07d970b4" ;
+        n2mu:id "d63de0cd-bfb3-472c-a667-224d07d970b4"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectioneb5d1904-a051-492d-b7e3-ea59bc563446 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectioneb5d1904-a051-492d-b7e3-ea59bc563446" ;
+        n2mu:id "eb5d1904-a051-492d-b7e3-ea59bc563446"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionf6064ef1-240b-47a4-b5db-2fc3a14d7dd4 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionf6064ef1-240b-47a4-b5db-2fc3a14d7dd4" ;
+        n2mu:id "f6064ef1-240b-47a4-b5db-2fc3a14d7dd4"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionfb1faf78-ec70-42d3-b0c7-eb2198476554 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionfb1faf78-ec70-42d3-b0c7-eb2198476554" ;
+        n2mu:id "fb1faf78-ec70-42d3-b0c7-eb2198476554"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniWorld:Amsterdam a n2mu:city,
+            n2mu:location,
+            sem:Place ;
+        rdfs:label "Amsterdam" .
+
+    leolaniWorld:NL a n2mu:country,
+            n2mu:location,
+            sem:Place ;
+        rdfs:label "NL" .
+
+    leolaniWorld:North_Holland a n2mu:location,
+            n2mu:region,
+            sem:Place ;
+        rdfs:label "North Holland" .
+
+    leolaniFriends:mincke a n2mu:person,
+            gaf:Instance,
+            grasp:Source,
+            sem:Actor ;
+        rdfs:label "mincke" .
+
+    leolaniFriends:caya a n2mu:person,
+            gaf:Instance,
+            grasp:Source,
+            sem:Actor ;
+        rdfs:label "caya" .
+
+    leolaniInputs:front-camera a n2mu:sensor,
+            gaf:Instance,
+            grasp:Source,
+            sem:Actor ;
+        rdfs:label "front-camera" .
+}
+
+leolaniWorld:a-dog_be_an-animal {
+    leolaniWorld:A-dog n2mu:be leolaniWorld:an-animal .
+}
+
+leolaniWorld:it_be_raining {
+    leolaniWorld:it n2mu:be leolaniWorld:raining .
+}
+
+leolaniWorld:Instances {
+    leolaniWorld: a gaf:Instance ;
+        rdfs:label "None" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20 .
+
+    leolaniWorld:2-years-younger-than-Mincke a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "2-years-younger-than-mincke" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32 .
+
+    leolaniWorld:24-years-old a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "24-years-old" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22 .
+
+    leolaniWorld:A-cake a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "a-cake" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16 .
+
+    leolaniWorld:A-dog a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "a-dog" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:A-laptop a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "a-laptop" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20 .
+
+    leolaniWorld:All-people a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "all-people" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance283a15db-25f3-4902-9c88-eae97213f991_char0-20 .
+
+    leolaniWorld:Apple-pie a n2mu:food,
+            gaf:Instance ;
+        rdfs:label "apple-pie" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20 .
+
+    leolaniWorld:Caya a n2mu:agent,
+            gaf:Instance ;
+        rdfs:label "caya" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranced5045ade-8fbf-4c15-ab25-bf6f8a83eb09_char0-32,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18 .
+
+    leolaniWorld:Caya-friend a n2mu:agent,
+            gaf:Instance ;
+        rdfs:label "caya-friend" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19 .
+
+    leolaniWorld:Leolani2 a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "leolani2" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44 .
+
+    leolaniWorld:Mincke a n2mu:agent,
+            gaf:Instance ;
+        rdfs:label "mincke" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance727eaf01-3d2c-4280-9d84-db92f3496083_char0-44,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18 .
+
+    leolaniWorld:Utrecht a n2mu:location,
+            gaf:Instance ;
+        rdfs:label "utrecht" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23 .
+
+    leolaniWorld:a-cake a n2mu:food,
+            gaf:Instance ;
+        rdfs:label "a-cake" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranced63de0cd-bfb3-472c-a667-224d07d970b4_char0-20 .
+
+    leolaniWorld:a-dish a <http://cltl.nl/leolani/n2mu/🍕>,
+            gaf:Instance ;
+        rdfs:label "a-dish" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceeb5d1904-a051-492d-b7e3-ea59bc563446_char0-16 .
+
+    leolaniWorld:a-object a n2mu:object,
+            gaf:Instance ;
+        rdfs:label "a-object" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance4c5dd6e4-4d95-4185-b727-18fefbdfb6d2_char0-20 .
+
+    leolaniWorld:a-person a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "a-person" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16 .
+
+    leolaniWorld:an-animal a gaf:Instance ;
+        rdfs:label "an-animal" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:an-equestrian a gaf:Instance ;
+        rdfs:label "an-equestrian" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterancefb1faf78-ec70-42d3-b0c7-eb2198476554_char0-18 .
+
+    leolaniWorld:books a n2mu:communication,
+            gaf:Instance ;
+        rdfs:label "books" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16 .
+
+    leolaniWorld:cats a n2mu:animal,
+            gaf:Instance ;
+        rdfs:label "cats" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceaf1dce07-f907-474b-a378-d9a5821fcb77_char0-18 .
+
+    leolaniWorld:caya a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "caya" .
+
+    leolaniWorld:ella a n2mu:agent,
+            gaf:Instance ;
+        rdfs:label "ella" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance283e18bf-f1cb-4235-ad11-746e86eaef77_char0-16,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancecdaadf74-ff38-458a-ae26-e3378a055dbe_char0-16 .
+
+    leolaniWorld:good a gaf:Instance ;
+        rdfs:label "good" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance9c1f11a6-0800-4c72-8743-2ede96f60586_char0-21 .
+
+    leolaniWorld:it a gaf:Instance ;
+        rdfs:label "it" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13 .
+
+    leolaniWorld:know a gaf:Instance ;
+        rdfs:label "know" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterancec31afd26-32f3-41a0-8aba-67be818f2489_char0-13 .
+
+    leolaniWorld:leolani a n2mu:robot ;
+        rdfs:label "leolani" .
+
+    leolaniWorld:lions a n2mu:animal,
+            gaf:Instance ;
+        rdfs:label "lions" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29 .
+
+    leolaniWorld:mincke a n2mu:agent,
+            n2mu:person,
+            gaf:Instance ;
+        rdfs:label "mincke" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance52597939-154c-4464-a317-30cd48bd132c_char0-23,
+            leolaniTalk:chat2021-12-10-09:35:02_utterance82444417-76cd-4bad-83ac-51773d19c8d7_char0-22,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceb665bf1d-04f1-431d-8f8f-4c9c81e8d3c9_char0-19,
+            leolaniTalk:chat2021-12-10-09:35:02_utterancef6064ef1-240b-47a4-b5db-2fc3a14d7dd4_char0-22 .
+
+    leolaniWorld:pizza a n2mu:food,
+            gaf:Instance ;
+        rdfs:label "pizza" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance2a55c1ac-237f-4f2d-9beb-520eba4e1c91_char0-12 .
+
+    leolaniWorld:raining a n2mu:it,
+            gaf:Instance ;
+        rdfs:label "raining" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance2a0af0e1-e26c-47b3-a29f-dc07c89d1b94_char0-13 .
+
+    leolaniWorld:territorial-animals a gaf:Instance ;
+        rdfs:label "territorial-animals" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb2b8a9d5-a2df-40dd-82e3-d570d4b6ad4f_char0-29 .
+}
+
+leolaniWorld:a-cake_be_a-dish {
+    leolaniWorld:A-cake n2mu:be leolaniWorld:a-dish .
+}
+
+leolaniWorld:leolani2_know_caya {
+    leolaniWorld:Leolani2 n2mu:know leolaniWorld:Caya .
+}
+
+leolaniWorld:lions_be_territorial-animals {
+    leolaniWorld:lions n2mu:be leolaniWorld:territorial-animals .
+}
+
+leolaniWorld:caya_like_pizza {
+    leolaniWorld:Caya n2mu:like leolaniWorld:pizza .
+}
+
+leolaniWorld:mincke_like_cats {
+    leolaniWorld:Mincke n2mu:like leolaniWorld:cats .
+}
+
+leolaniWorld:leolani_know_mincke {
+    leolaniWorld:leolani n2mu:know leolaniFriends:mincke .
+}
+
+leolaniWorld:a-laptop_be_a-object {
+    leolaniWorld:A-laptop n2mu:be leolaniWorld:a-object .
+}
+
+leolaniWorld:ella_be_a-person {
+    leolaniWorld:ella n2mu:be leolaniWorld:a-person .
+}
+
+leolaniWorld:mincke_like_apple-pie {
+    leolaniWorld:mincke n2mu:like leolaniWorld:Apple-pie .
+}
+
+leolaniWorld:caya_be_2-years-younger-than-mincke {
+    leolaniWorld:Caya n2mu:be leolaniWorld:2-years-younger-than-Mincke .
+}
+
+leolaniWorld:mincke_live-in_utrecht {
+    leolaniWorld:mincke n2mu:live-in leolaniWorld:Utrecht .
+}
+
+leolaniWorld:apple-pie_be_a-cake {
+    leolaniWorld:Apple-pie n2mu:be leolaniWorld:a-cake .
+}
+
+leolaniWorld:caya_be_know {
+    leolaniWorld:Caya n2mu:be leolaniWorld:know .
+}
+
+leolaniWorld:leolani2_know_mincke {
+    leolaniWorld:Leolani2 n2mu:know leolaniWorld:Mincke .
+}
+
+leolaniWorld:caya_be_an-equestrian {
+    leolaniWorld:Caya n2mu:be leolaniWorld:an-equestrian .
+}
+

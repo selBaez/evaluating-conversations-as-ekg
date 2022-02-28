@@ -8,7 +8,6 @@ import rdflib
 
 
 def get_number_classes(graph: rdflib.Graph):
-    # fails
     ans = graph.query(
         'PREFIX owl: <http://www.w3.org/2002/07/owl#> SELECT DISTINCT ?s WHERE { ?s rdf:type owl:Class. FILTER isURI(?s) }')
     # named classes - N_C (without owl:Thing and owl:Nothing
@@ -17,7 +16,6 @@ def get_number_classes(graph: rdflib.Graph):
 
 
 def get_number_properties(graph: rdflib.Graph):
-    # fails
     ans = graph.query(
         'PREFIX owl: <http://www.w3.org/2002/07/owl#> SELECT DISTINCT ?prop WHERE {{?prop a owl:DatatypeProperty} UNION {?prop a owl:ObjectProperty}}')
     return len(ans)
@@ -30,14 +28,12 @@ def get_number_instances(graph: rdflib.Graph):
 
 
 def get_number_properties_object(graph: rdflib.Graph):
-    # fails
     ans = graph.query(
         'PREFIX owl: <http://www.w3.org/2002/07/owl#> SELECT DISTINCT ?property WHERE { ?property a owl:ObjectProperty}')
     return len(ans)
 
 
 def get_number_properties_datatype(graph: rdflib.Graph):
-    # fails
     ans = graph.query(
         'PREFIX owl: <http://www.w3.org/2002/07/owl#> SELECT DISTINCT ?property WHERE { ?property a owl:DatatypeProperty }')
     return len(ans)

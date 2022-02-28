@@ -1,0 +1,241 @@
+@prefix eps: <http://cltl.nl/episodicawareness/> .
+@prefix gaf: <http://groundedannotationframework.org/gaf#> .
+@prefix grasp: <http://groundedannotationframework.org/grasp#> .
+@prefix graspe: <http://groundedannotationframework.org/grasp/emotion#> .
+@prefix graspf: <http://groundedannotationframework.org/grasp/factuality#> .
+@prefix grasps: <http://groundedannotationframework.org/grasp/sentiment#> .
+@prefix leolaniContext: <http://cltl.nl/leolani/context/> .
+@prefix leolaniFriends: <http://cltl.nl/leolani/friends/> .
+@prefix leolaniInputs: <http://cltl.nl/leolani/inputs/> .
+@prefix leolaniTalk: <http://cltl.nl/leolani/talk/> .
+@prefix leolaniWorld: <http://cltl.nl/leolani/world/> .
+@prefix n2mu: <http://cltl.nl/leolani/n2mu/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix time: <http://www.w3.org/TR/owl-time/#> .
+@prefix xml1: <https://www.w3.org/TR/xmlschema-2/#> .
+
+leolaniWorld:a-dog_be_an-animal {
+    leolaniWorld:A-dog n2mu:be leolaniWorld:an-animal .
+}
+
+leolaniWorld:leolani_sense_front-camera {
+    leolaniWorld:leolani n2mu:sense leolaniInputs:front-camera .
+}
+
+leolaniWorld:Claims {
+    leolaniFriends:caya owl:sameAs leolaniWorld:caya .
+
+    leolaniWorld:a-dog_be_an-animal a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "a-dog_be_an-animal" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:leolani2_know_caya a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani2_know_caya" ;
+        gaf:denotedBy leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 .
+
+    leolaniWorld:leolani_know_caya a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani_know_caya" .
+
+    leolaniWorld:leolani_sense_front-camera a gaf:Assertion,
+            sem:Event ;
+        rdfs:label "leolani_sense_front-camera" .
+}
+
+leolaniTalk:Perspectives {
+    leolaniTalk:a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:CERTAIN,
+            graspf:POSITIVE,
+            grasps:NEUTRAL .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22" ;
+        gaf:containsDenotation leolaniWorld:Caya,
+            leolaniWorld:Leolani2 ;
+        gaf:denotes leolaniWorld:leolani2_know_caya ;
+        grasp:hasAttribution leolaniTalk:leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "Hi! Who are you? Caya?"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 a gaf:Mention,
+            grasp:Statement ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18" ;
+        gaf:containsDenotation leolaniWorld:A-dog,
+            leolaniWorld:an-animal ;
+        gaf:denotes leolaniWorld:a-dog_be_an-animal ;
+        grasp:hasAttribution leolaniTalk:a-dog_be_an-animal_CERTAIN-POSITIVE-NEUTRAL-UNDERSPECIFIED ;
+        grasp:wasAttributedTo leolaniFriends:caya ;
+        rdf:value "A dog is an animal"^^xml1:string ;
+        prov:wasDerivedFrom leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0 .
+
+    leolaniTalk:leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED a grasp:Attribution ;
+        rdfs:label "leolani2_know_caya_UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED-UNDERSPECIFIED" ;
+        grasp:isAttributionFor leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 ;
+        rdf:value graspe:UNDERSPECIFIED,
+            graspf:UNDERSPECIFIED,
+            grasps:UNDERSPECIFIED .
+
+    graspf:CERTAIN a grasp:AttributionValue,
+            graspf:CertaintyValue ;
+        rdfs:label "CERTAIN" .
+
+    graspf:POSITIVE a grasp:AttributionValue,
+            graspf:PolarityValue ;
+        rdfs:label "POSITIVE" .
+
+    graspf:UNDERSPECIFIED a grasp:AttributionValue,
+            graspf:CertaintyValue,
+            graspf:PolarityValue ;
+        rdfs:label "UNDERSPECIFIED" .
+
+    grasps:NEUTRAL a grasp:AttributionValue,
+            grasps:SentimentValue ;
+        rdfs:label "NEUTRAL" .
+
+    grasps:UNDERSPECIFIED a grasp:AttributionValue,
+            grasps:SentimentValue ;
+        rdfs:label "UNDERSPECIFIED" .
+
+    graspe:UNDERSPECIFIED a grasp:AttributionValue,
+            graspe:EmotionValue ;
+        rdfs:label "UNDERSPECIFIED" .
+}
+
+leolaniWorld:Instances {
+    leolaniWorld:A-dog a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "a-dog" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:Caya a n2mu:agent,
+            gaf:Instance ;
+        rdfs:label "caya" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 .
+
+    leolaniWorld:Leolani2 a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "leolani2" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85_char0-22 .
+
+    leolaniWorld:an-animal a gaf:Instance ;
+        rdfs:label "an-animal" ;
+        gaf:denotedIn leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0_char0-18 .
+
+    leolaniWorld:caya a n2mu:person,
+            gaf:Instance ;
+        rdfs:label "caya" .
+
+    leolaniWorld:leolani a n2mu:robot ;
+        rdfs:label "leolani" .
+}
+
+leolaniWorld:leolani_know_caya {
+    leolaniWorld:leolani n2mu:know leolaniFriends:caya .
+}
+
+leolaniWorld:leolani2_know_caya {
+    leolaniWorld:Leolani2 n2mu:know leolaniWorld:Caya .
+}
+
+leolaniTalk:Interactions {
+    leolaniContext:contextLeolani2 a eps:Context ;
+        rdfs:label "contextLeolani2" ;
+        n2mu:id "Leolani2"^^xml1:string ;
+        sem:hasBeginTimeStamp leolaniContext:2021-12-10 ;
+        sem:hasEvent leolaniTalk:chat2021-12-10-09:35:02,
+            leolaniTalk:visual2021-12-10-09:35:02 ;
+        sem:hasPlace leolaniContext:amsterdam .
+
+    leolaniContext:2021-12-10 a sem:Time,
+            time:DateTimeDescription ;
+        rdfs:label "2021-12-10" ;
+        time:day "10"^^xml1:gDay ;
+        time:month "12"^^xml1:gMonthDay ;
+        time:unitType time:unitDay ;
+        time:year "2021"^^xml1:gYear .
+
+    leolaniContext:amsterdam a n2mu:location,
+            sem:Place ;
+        rdfs:label "amsterdam" ;
+        n2mu:id "165"^^xml1:string ;
+        n2mu:in leolaniWorld:Amsterdam,
+            leolaniWorld:NL,
+            leolaniWorld:North_Holland .
+
+    leolaniTalk:chat2021-12-10-09:35:02 a grasp:Chat,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02" ;
+        n2mu:id "2021-12-10-09:35:02"^^xml1:string ;
+        sem:hasSubEvent leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85,
+            leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0 .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utterance4e59a49f-da85-435e-8332-883772bfcc85" ;
+        n2mu:id "4e59a49f-da85-435e-8332-883772bfcc85"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0 a grasp:Utterance,
+            sem:Event ;
+        rdfs:label "chat2021-12-10-09:35:02_utteranceb7ef46da-1d13-466b-8835-b8df20755ec0" ;
+        n2mu:id "b7ef46da-1d13-466b-8835-b8df20755ec0"^^xml1:string ;
+        sem:hasActor leolaniFriends:caya .
+
+    leolaniTalk:visual2021-12-10-09:35:02 a grasp:Visual,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02" ;
+        n2mu:id "2021-12-10-09:35:02"^^xml1:string ;
+        sem:hasSubEvent leolaniTalk:visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85,
+            leolaniTalk:visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0 .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detection4e59a49f-da85-435e-8332-883772bfcc85" ;
+        n2mu:id "4e59a49f-da85-435e-8332-883772bfcc85"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniTalk:visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0 a grasp:Detection,
+            sem:Event ;
+        rdfs:label "visual2021-12-10-09:35:02_detectionb7ef46da-1d13-466b-8835-b8df20755ec0" ;
+        n2mu:id "b7ef46da-1d13-466b-8835-b8df20755ec0"^^xml1:string ;
+        sem:hasActor leolaniInputs:front-camera .
+
+    leolaniWorld:Amsterdam a n2mu:city,
+            n2mu:location,
+            sem:Place ;
+        rdfs:label "Amsterdam" .
+
+    leolaniWorld:NL a n2mu:country,
+            n2mu:location,
+            sem:Place ;
+        rdfs:label "NL" .
+
+    leolaniWorld:North_Holland a n2mu:location,
+            n2mu:region,
+            sem:Place ;
+        rdfs:label "North Holland" .
+
+    leolaniFriends:caya a n2mu:person,
+            gaf:Instance,
+            grasp:Source,
+            sem:Actor ;
+        rdfs:label "caya" .
+
+    leolaniInputs:front-camera a n2mu:sensor,
+            gaf:Instance,
+            grasp:Source,
+            sem:Actor ;
+        rdfs:label "front-camera" .
+}
+

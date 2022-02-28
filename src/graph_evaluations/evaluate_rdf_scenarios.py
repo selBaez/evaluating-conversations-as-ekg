@@ -7,10 +7,10 @@ import os
 from pathlib import Path
 
 import pandas as pd
-from rdflib import Dataset, ConjunctiveGraph, URIRef
+from rdflib import ConjunctiveGraph
 from rdflib.extras.external_graph_libs import rdflib_to_networkx_multidigraph
-from rdflib.namespace import FOAF, RDF
 
+from src.graph_evaluations.metrics.brain_measures import *
 from src.graph_evaluations.metrics.graph_measures import *
 from src.graph_evaluations.metrics.ontology_measures import *
 
@@ -28,7 +28,7 @@ def save(file_num, df):
     df.to_csv(OUTPUT_FOLDER + f'{file_num}.csv', index=False)
 
 
-def calculate_metrics(brain, brain_as_graph, brain_as_netx, df, idx):
+def calculate_metrics(brain_as_graph, brain_as_netx, df, idx):
     print(f"\tCalculating graph metrics")
     df.loc[idx, 'Total nodes'] = get_count_nodes(brain_as_netx)
     df.loc[idx, 'Total edges'] = get_count_edges(brain_as_netx)
@@ -47,17 +47,17 @@ def calculate_metrics(brain, brain_as_graph, brain_as_netx, df, idx):
     df.loc[idx, 'Sparseness'] = get_sparseness(brain_as_netx)
     ####
     print(f"\tCalculating RDF graph metrics")
-    df.loc[idx, 'Total explicit triples'] = len(brain)
+    df.loc[idx, 'Total explicit triples'] = len(brain_as_graph)
     df.loc[idx, 'Total classes'] = get_number_classes(brain_as_graph)
     df.loc[idx, 'Total properties'] = get_number_properties(brain_as_graph)
     df.loc[idx, 'Total instances'] = get_number_instances(brain_as_graph)
     df.loc[idx, 'Total object properties'] = get_number_properties_object(brain_as_graph)
     df.loc[idx, 'Total data properties'] = get_number_properties_datatype(brain_as_graph)
-    df.loc[idx, 'Total equivalent class properties'] = get_number_properties_equivClass(brain_as_graph)
+    # df.loc[idx, 'Total equivalent class properties'] = get_number_properties_equivClass(brain_as_graph)
     df.loc[idx, 'Total subclass properties'] = get_number_properties_subclass(brain_as_graph)
     df.loc[idx, 'Total entities'] = get_number_entities(brain_as_graph)
-    df.loc[idx, 'Total inverse entities'] = get_number_inverse(brain_as_graph)
-    df.loc[idx, 'Ratio of inverse relations'] = get_ratio_inverse_relations(brain_as_graph)
+    # df.loc[idx, 'Total inverse entities'] = get_number_inverse(brain_as_graph)
+    # df.loc[idx, 'Ratio of inverse relations'] = get_ratio_inverse_relations(brain_as_graph)
     df.loc[idx, 'Property class ratio'] = get_property_class_ratio(brain_as_graph)
     df.loc[idx, 'Average population'] = get_avg_population(brain_as_graph)
     df.loc[idx, 'Class property ratio'] = get_class_property_ratio(brain_as_graph)
@@ -69,16 +69,21 @@ def calculate_metrics(brain, brain_as_graph, brain_as_netx, df, idx):
     df.loc[idx, 'Total concept assertions'] = get_number_concept_assertions(brain_as_graph)
     df.loc[idx, 'Total role assertions'] = get_number_role_assertions(brain_as_graph)
     df.loc[idx, 'Total general concept inclusions'] = get_number_GCI(brain_as_graph)
-    df.loc[idx, 'Total domain axioms'] = get_number_domain_axioms(brain_as_graph)
-    df.loc[idx, 'Total range axioms'] = get_number_range_axioms(brain_as_graph)
-    df.loc[idx, 'Total role inclusions'] = get_number_role_inclusion(brain_as_graph)
+    # df.loc[idx, 'Total domain axioms'] = get_number_domain_axioms(brain_as_graph)
+    # df.loc[idx, 'Total range axioms'] = get_number_range_axioms(brain_as_graph)
+    # df.loc[idx, 'Total role inclusions'] = get_number_role_inclusion(brain_as_graph)
     df.loc[idx, 'Total axioms'] = get_number_axioms(brain_as_graph)
     df.loc[idx, 'Total aBox axioms'] = get_number_aBox_axioms(brain_as_graph)
     df.loc[idx, 'Total tBox axioms'] = get_number_tBox_axioms(brain_as_graph)
     #####
     print(f"\tCalculating brain metrics")
-    df.loc[idx, 'Total semantic statements'] = 0
-    df.loc[idx, 'Total sources'] = 0
+    df.loc[idx, 'Total world instances'] = get_number_grasp_instances(brain_as_graph)
+    df.loc[idx, 'Total semantic statements'] = get_number_statements(brain_as_graph)
+    df.loc[idx, 'Total perspectives'] = get_number_perspectives(brain_as_graph)
+    df.loc[idx, 'Total mentions'] = get_number_mentions(brain_as_graph)
+    df.loc[idx, 'Total interactions'] = get_number_chats(brain_as_graph)
+    df.loc[idx, 'Total utterances'] = get_number_utterances(brain_as_graph)
+    df.loc[idx, 'Total sources'] = get_number_sources(brain_as_graph)
     return df
 
 
@@ -105,11 +110,11 @@ def copy_metrics(df, idx):
     df.loc[idx, 'Total instances'] = df.loc[idx - 1, 'Total instances']
     df.loc[idx, 'Total object properties'] = df.loc[idx - 1, 'Total object properties']
     df.loc[idx, 'Total data properties'] = df.loc[idx - 1, 'Total data properties']
-    df.loc[idx, 'Total equivalent class properties'] = df.loc[idx - 1, 'Total equivalent class properties']
+    # df.loc[idx, 'Total equivalent class properties'] = df.loc[idx - 1, 'Total equivalent class properties']
     df.loc[idx, 'Total subclass properties'] = df.loc[idx - 1, 'Total subclass properties']
     df.loc[idx, 'Total entities'] = df.loc[idx - 1, 'Total entities']
-    df.loc[idx, 'Total inverse entities'] = df.loc[idx - 1, 'Total inverse entities']
-    df.loc[idx, 'Ratio of inverse relations'] = df.loc[idx - 1, 'Ratio of inverse relations']
+    # df.loc[idx, 'Total inverse entities'] = df.loc[idx - 1, 'Total inverse entities']
+    # df.loc[idx, 'Ratio of inverse relations'] = df.loc[idx - 1, 'Ratio of inverse relations']
     df.loc[idx, 'Property class ratio'] = df.loc[idx - 1, 'Property class ratio']
     df.loc[idx, 'Average population'] = df.loc[idx - 1, 'Average population']
     df.loc[idx, 'Class property ratio'] = df.loc[idx - 1, 'Class property ratio']
@@ -121,13 +126,18 @@ def copy_metrics(df, idx):
     df.loc[idx, 'Total concept assertions'] = df.loc[idx - 1, 'Total concept assertions']
     df.loc[idx, 'Total role assertions'] = df.loc[idx - 1, 'Total role assertions']
     df.loc[idx, 'Total general concept inclusions'] = df.loc[idx - 1, 'Total general concept inclusions']
-    df.loc[idx, 'Total domain axioms'] = df.loc[idx - 1, 'Total domain axioms']
-    df.loc[idx, 'Total range axioms'] = df.loc[idx - 1, 'Total range axioms']
-    df.loc[idx, 'Total role inclusions'] = df.loc[idx - 1, 'Total role inclusions']
+    # df.loc[idx, 'Total domain axioms'] = df.loc[idx - 1, 'Total domain axioms']
+    # df.loc[idx, 'Total range axioms'] = df.loc[idx - 1, 'Total range axioms']
+    # df.loc[idx, 'Total role inclusions'] = df.loc[idx - 1, 'Total role inclusions']
     df.loc[idx, 'Total axioms'] = df.loc[idx - 1, 'Total axioms']
     df.loc[idx, 'Total aBox axioms'] = df.loc[idx - 1, 'Total aBox axioms']
     df.loc[idx, 'Total tBox axioms'] = df.loc[idx - 1, 'Total tBox axioms']
+    df.loc[idx, 'Total world instances'] = df.loc[idx - 1, 'Total world instances']
     df.loc[idx, 'Total semantic statements'] = df.loc[idx - 1, 'Total semantic statements']
+    df.loc[idx, 'Total perspectives'] = df.loc[idx - 1, 'Total perspectives']
+    df.loc[idx, 'Total mentions'] = df.loc[idx - 1, 'Total mentions']
+    df.loc[idx, 'Total interactions'] = df.loc[idx, 'Total interactions']
+    df.loc[idx, 'Total utterances'] = df.loc[idx - 1, 'Total utterances']
     df.loc[idx, 'Total sources'] = df.loc[idx - 1, 'Total sources']
 
     return df
@@ -165,20 +175,15 @@ def evaluate_conversation():
 
             # clear brain (for computational purposes)
             print(f"\tClear Long and short term memory")
-            brain = Dataset()
             brain_as_graph = ConjunctiveGraph()
 
             # Add new
             print(f"\tAdding triples to brains")
-            # bob = URIRef("http://example.org/people/Bob")
-            # brain_as_graph.add((bob, RDF.type, FOAF.Person))
-            # brain_as_graph.add((bob, RDF.type, bob))
-            brain.parse(RDF_FOLDER + row['rdf_file'], format='trig')
             brain_as_graph.parse(RDF_FOLDER + row['rdf_file'], format='trig')
             brain_as_netx = rdflib_to_networkx_multidigraph(brain_as_graph)
 
             # Calculate metrics (only when needed! otherwise copy row)
-            rdf_df = calculate_metrics(brain, brain_as_graph, brain_as_netx, rdf_df, idx)
+            rdf_df = calculate_metrics(brain_as_graph, brain_as_netx, rdf_df, idx)
 
         # copy over values from last row to avoid recomputing on an unchanged graph
         else:
