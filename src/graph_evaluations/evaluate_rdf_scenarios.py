@@ -51,10 +51,10 @@ def calculate_metrics(brain_as_graph, brain_as_netx, df, idx):
     df.loc[idx, 'Total classes'] = get_number_classes(brain_as_graph)
     df.loc[idx, 'Total properties'] = get_number_properties(brain_as_graph)
     df.loc[idx, 'Total instances'] = get_number_instances(brain_as_graph)
-    df.loc[idx, 'Total object properties'] = get_number_properties_object(brain_as_graph)
-    df.loc[idx, 'Total data properties'] = get_number_properties_datatype(brain_as_graph)
+    # df.loc[idx, 'Total object properties'] = get_number_properties_object(brain_as_graph)
+    # df.loc[idx, 'Total data properties'] = get_number_properties_datatype(brain_as_graph)
     # df.loc[idx, 'Total equivalent class properties'] = get_number_properties_equivClass(brain_as_graph)
-    df.loc[idx, 'Total subclass properties'] = get_number_properties_subclass(brain_as_graph)
+    # df.loc[idx, 'Total subclass properties'] = get_number_properties_subclass(brain_as_graph)
     df.loc[idx, 'Total entities'] = get_number_entities(brain_as_graph)
     # df.loc[idx, 'Total inverse entities'] = get_number_inverse(brain_as_graph)
     # df.loc[idx, 'Ratio of inverse relations'] = get_ratio_inverse_relations(brain_as_graph)
@@ -64,8 +64,8 @@ def calculate_metrics(brain_as_graph, brain_as_netx, df, idx):
     df.loc[idx, 'Attribute richness'] = get_attribute_richness(brain_as_graph)
     df.loc[idx, 'Inheritance richness'] = get_inheritance_richness(brain_as_graph)
     df.loc[idx, 'Relationship richness'] = get_relationship_richness(brain_as_graph)
-    df.loc[idx, 'Object properties ratio'] = get_ratio_object_properties(brain_as_graph)
-    df.loc[idx, 'Datatype properties ratio'] = get_ratio_datatype_properties(brain_as_graph)
+    # df.loc[idx, 'Object properties ratio'] = get_ratio_object_properties(brain_as_graph)
+    # df.loc[idx, 'Datatype properties ratio'] = get_ratio_datatype_properties(brain_as_graph)
     df.loc[idx, 'Total concept assertions'] = get_number_concept_assertions(brain_as_graph)
     df.loc[idx, 'Total role assertions'] = get_number_role_assertions(brain_as_graph)
     df.loc[idx, 'Total general concept inclusions'] = get_number_GCI(brain_as_graph)
@@ -108,10 +108,10 @@ def copy_metrics(df, idx):
     df.loc[idx, 'Total classes'] = df.loc[idx - 1, 'Total classes']
     df.loc[idx, 'Total properties'] = df.loc[idx - 1, 'Total properties']
     df.loc[idx, 'Total instances'] = df.loc[idx - 1, 'Total instances']
-    df.loc[idx, 'Total object properties'] = df.loc[idx - 1, 'Total object properties']
-    df.loc[idx, 'Total data properties'] = df.loc[idx - 1, 'Total data properties']
+    # df.loc[idx, 'Total object properties'] = df.loc[idx - 1, 'Total object properties']
+    # df.loc[idx, 'Total data properties'] = df.loc[idx - 1, 'Total data properties']
     # df.loc[idx, 'Total equivalent class properties'] = df.loc[idx - 1, 'Total equivalent class properties']
-    df.loc[idx, 'Total subclass properties'] = df.loc[idx - 1, 'Total subclass properties']
+    # df.loc[idx, 'Total subclass properties'] = df.loc[idx - 1, 'Total subclass properties']
     df.loc[idx, 'Total entities'] = df.loc[idx - 1, 'Total entities']
     # df.loc[idx, 'Total inverse entities'] = df.loc[idx - 1, 'Total inverse entities']
     # df.loc[idx, 'Ratio of inverse relations'] = df.loc[idx - 1, 'Ratio of inverse relations']
@@ -121,8 +121,8 @@ def copy_metrics(df, idx):
     df.loc[idx, 'Attribute richness'] = df.loc[idx - 1, 'Attribute richness']
     df.loc[idx, 'Inheritance richness'] = df.loc[idx - 1, 'Inheritance richness']
     df.loc[idx, 'Relationship richness'] = df.loc[idx - 1, 'Relationship richness']
-    df.loc[idx, 'Object properties ratio'] = df.loc[idx - 1, 'Object properties ratio']
-    df.loc[idx, 'Datatype properties ratio'] = df.loc[idx - 1, 'Datatype properties ratio']
+    # df.loc[idx, 'Object properties ratio'] = df.loc[idx - 1, 'Object properties ratio']
+    # df.loc[idx, 'Datatype properties ratio'] = df.loc[idx - 1, 'Datatype properties ratio']
     df.loc[idx, 'Total concept assertions'] = df.loc[idx - 1, 'Total concept assertions']
     df.loc[idx, 'Total role assertions'] = df.loc[idx - 1, 'Total role assertions']
     df.loc[idx, 'Total general concept inclusions'] = df.loc[idx - 1, 'Total general concept inclusions']
@@ -155,6 +155,7 @@ def evaluate_conversation():
                            'Interesting', 'Engaging', 'Specific', 'Relevant',
                            'Correct', 'Semantically Appropriate', 'Understandable', 'Fluent']]
         dfs.append(temp_df)
+        print(f"Found csv {path}")
 
     # Average annotations, per turn
     avg_df = pd.concat(dfs).groupby(level=0).mean()

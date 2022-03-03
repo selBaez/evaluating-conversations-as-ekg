@@ -1,0 +1,488 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Leolani2",
+    "Response": "What's new? Who are you? Stranger?",
+    "rdf_file": "brain_log_2021-12-10-09-23-55.trig"
+  },
+  {
+    "Turn": 1,
+    "Speaker": null,
+    "Response": "Nicole",
+    "rdf_file": null
+  },
+  {
+    "Turn": 2,
+    "Speaker": null,
+    "Response": "So your name is Nicole?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 3,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-09-24-15.trig"
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Leolani2",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": null
+  },
+  {
+    "Turn": 5,
+    "Speaker": "Nicole",
+    "Response": "I like dogs",
+    "rdf_file": "brain_log_2021-12-10-09-24-36.trig"
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Leolani2",
+    "Response": "I just learned something, I had never heard about dogs before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 7,
+    "Speaker": "Nicole",
+    "Response": "Dogs are pets and very sweet",
+    "rdf_file": null
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Leolani2",
+    "Response": "Wise words by wise men write wise deeds in wise pen",
+    "rdf_file": null
+  },
+  {
+    "Turn": 9,
+    "Speaker": "Nicole",
+    "Response": "Do you have a pet?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Leolani2",
+    "Response": "I know agent usually do article:indefinite, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 11,
+    "Speaker": "Nicole",
+    "Response": "My parents have a dog",
+    "rdf_file": "brain_log_2021-12-10-09-25-32.trig"
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Leolani2",
+    "Response": "I just learned something, I had never heard about my parents before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 13,
+    "Speaker": "Nicole",
+    "Response": "Every agent has parents",
+    "rdf_file": "brain_log_2021-12-10-09-25-53.trig"
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Leolani2",
+    "Response": "Let me ask you something. Has every agent ever be family of a person?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 15,
+    "Speaker": "Nicole",
+    "Response": "yes",
+    "rdf_file": null
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Leolani2",
+    "Response": "I do frequently do not know things",
+    "rdf_file": null
+  },
+  {
+    "Turn": 17,
+    "Speaker": "Nicole",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Leolani2",
+    "Response": "I do frequently do not know things",
+    "rdf_file": null
+  },
+  {
+    "Turn": 19,
+    "Speaker": "Leolani2",
+    "Response": "Good to see you! What is your name? Stranger?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 20,
+    "Speaker": null,
+    "Response": "Fajjaaz",
+    "rdf_file": null
+  },
+  {
+    "Turn": 21,
+    "Speaker": null,
+    "Response": "So your name is Fajjaaz?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 22,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-10-01-08.trig"
+  },
+  {
+    "Turn": 23,
+    "Speaker": "Leolani2",
+    "Response": "Let's chat!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 24,
+    "Speaker": "Fajjaaz",
+    "Response": "lets chat about food",
+    "rdf_file": null
+  },
+  {
+    "Turn": 25,
+    "Speaker": "Leolani2",
+    "Response": "I know noun.communication usually let about noun.Tops, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Fajjaaz",
+    "Response": "why not?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 27,
+    "Speaker": "Leolani2",
+    "Response": "As the prophecy foretold",
+    "rdf_file": null
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Fajjaaz",
+    "Response": "which prophecy are you talking about?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 29,
+    "Speaker": "Leolani2",
+    "Response": "I do frequently do not know things",
+    "rdf_file": null
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Fajjaaz",
+    "Response": "How come?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 31,
+    "Speaker": "Leolani2",
+    "Response": "That's just what he\/she\/they would've said",
+    "rdf_file": null
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Fajjaaz",
+    "Response": "Do you like food?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 33,
+    "Speaker": "Leolani2",
+    "Response": "I know agent usually do like noun.Tops, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Fajjaaz",
+    "Response": "That is a shame",
+    "rdf_file": "brain_log_2021-12-10-10-02-37.trig"
+  },
+  {
+    "Turn": 35,
+    "Speaker": "Leolani2",
+    "Response": "This is news to me. I did not know anybody who be a shame",
+    "rdf_file": null
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Fajjaaz",
+    "Response": "You know now!",
+    "rdf_file": "brain_log_2021-12-10-10-02-55.trig"
+  },
+  {
+    "Turn": 37,
+    "Speaker": "Leolani2",
+    "Response": "I am glad to have learned something new. I did not know anybody who know now",
+    "rdf_file": null
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Fajjaaz",
+    "Response": "Great that I could help you",
+    "rdf_file": "brain_log_2021-12-10-10-03-23.trig"
+  },
+  {
+    "Turn": 39,
+    "Speaker": "Leolani2",
+    "Response": "I am curious. Has leolani play by a song?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Fajjaaz",
+    "Response": "No",
+    "rdf_file": null
+  },
+  {
+    "Turn": 41,
+    "Speaker": "Leolani2",
+    "Response": "But at what cost?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Fajjaaz",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 43,
+    "Speaker": "Leolani2",
+    "Response": "I do not know, but I have a joke Thing is, we all just want to belong. But some of us are short.",
+    "rdf_file": null
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Leolani2",
+    "Response": "What's up? I've told you my name, but what about yours? Stranger?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 45,
+    "Speaker": null,
+    "Response": "Hidde",
+    "rdf_file": null
+  },
+  {
+    "Turn": 46,
+    "Speaker": null,
+    "Response": "So your name is Hidde?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 47,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-10-05-37.trig"
+  },
+  {
+    "Turn": 48,
+    "Speaker": "Leolani2",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": null
+  },
+  {
+    "Turn": 49,
+    "Speaker": "Hidde",
+    "Response": "Do you like dogs?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 50,
+    "Speaker": "Leolani2",
+    "Response": "I know agent usually do like noun.animal, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 51,
+    "Speaker": "Hidde",
+    "Response": "Where do you live?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 52,
+    "Speaker": "Leolani2",
+    "Response": "I don't know",
+    "rdf_file": null
+  },
+  {
+    "Turn": 53,
+    "Speaker": "Hidde",
+    "Response": "Do you like pizza?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 54,
+    "Speaker": "Leolani2",
+    "Response": "I know agent usually do like noun.food, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 55,
+    "Speaker": "Hidde",
+    "Response": "I live in Amsterdam",
+    "rdf_file": "brain_log_2021-12-10-10-10-10.trig"
+  },
+  {
+    "Turn": 56,
+    "Speaker": "Leolani2",
+    "Response": "Let me ask you something. Has a cuisine ever be from amsterdam?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 57,
+    "Speaker": "Hidde",
+    "Response": "yes",
+    "rdf_file": null
+  },
+  {
+    "Turn": 58,
+    "Speaker": "Leolani2",
+    "Response": "... just like in my dream",
+    "rdf_file": null
+  },
+  {
+    "Turn": 59,
+    "Speaker": "Hidde",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 60,
+    "Speaker": "Leolani2",
+    "Response": "That's just what he\/she\/they would've said",
+    "rdf_file": null
+  },
+  {
+    "Turn": 61,
+    "Speaker": "Leolani2",
+    "Response": "What's up? What is your name? Stranger?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 62,
+    "Speaker": null,
+    "Response": "Nihed",
+    "rdf_file": null
+  },
+  {
+    "Turn": 63,
+    "Speaker": null,
+    "Response": "So your name is Nihed?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 64,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-10-11-41.trig"
+  },
+  {
+    "Turn": 65,
+    "Speaker": "Leolani2",
+    "Response": "Do you have any gossip?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 66,
+    "Speaker": "Nihed",
+    "Response": "Fajjaaz is my friend",
+    "rdf_file": "brain_log_2021-12-10-10-11-56.trig"
+  },
+  {
+    "Turn": 67,
+    "Speaker": "Leolani2",
+    "Response": "If you don't mind me asking. Has nihed friend be family of by a person?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 68,
+    "Speaker": "Nihed",
+    "Response": "Yes Hidde is his uncle",
+    "rdf_file": "brain_log_2021-12-10-10-12-20.trig"
+  },
+  {
+    "Turn": 69,
+    "Speaker": "Leolani2",
+    "Response": "If you don't mind me asking. What kinds of things can be a his uncle like lea hidde",
+    "rdf_file": null
+  },
+  {
+    "Turn": 70,
+    "Speaker": "Nihed",
+    "Response": "An uncle is a man",
+    "rdf_file": "brain_log_2021-12-10-10-12-39.trig"
+  },
+  {
+    "Turn": 71,
+    "Speaker": "Leolani2",
+    "Response": "I am glad to have learned something new. I did not know anything that an uncle be",
+    "rdf_file": null
+  },
+  {
+    "Turn": 72,
+    "Speaker": "Nihed",
+    "Response": "Do you know an aunt?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 73,
+    "Speaker": "Leolani2",
+    "Response": "I know agent usually do know article:indefinite, but I do not know this case",
+    "rdf_file": null
+  },
+  {
+    "Turn": 74,
+    "Speaker": "Nihed",
+    "Response": "an aunt is a woman",
+    "rdf_file": "brain_log_2021-12-10-10-13-15.trig"
+  },
+  {
+    "Turn": 75,
+    "Speaker": "Leolani2",
+    "Response": "This is news to me. I had never heard about an aunt before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 76,
+    "Speaker": "Nihed",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 77,
+    "Speaker": "Leolani2",
+    "Response": "Why?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 78,
+    "Speaker": "Leolani2",
+    "Response": "Do you have any gossip?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 79,
+    "Speaker": "Nihed",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 80,
+    "Speaker": "Leolani2",
+    "Response": "There is no escape from destiny",
+    "rdf_file": null
+  }
+]

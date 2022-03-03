@@ -57,7 +57,10 @@ def get_degree_connectivity(graph: nx.Graph):
 
 
 def get_assortativity(graph: nx.Graph):
-    assort = nx.degree_pearson_correlation_coefficient(graph)
+    try:
+        assort = nx.degree_pearson_correlation_coefficient(graph)
+    except:
+        assort = np.nan
     return assort
 
 

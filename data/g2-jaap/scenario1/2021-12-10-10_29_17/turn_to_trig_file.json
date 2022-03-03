@@ -1,0 +1,278 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Leolani2",
+    "Response": "How's it going? I would like to know your name! Piotr?",
+    "rdf_file": "brain_log_2021-12-10-10-29-27.trig"
+  },
+  {
+    "Turn": 1,
+    "Speaker": null,
+    "Response": "Piotr",
+    "rdf_file": null
+  },
+  {
+    "Turn": 2,
+    "Speaker": null,
+    "Response": "So your name is Piotr?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 3,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-10-29-47.trig"
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Leolani2",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": null
+  },
+  {
+    "Turn": 5,
+    "Speaker": "Piotr",
+    "Response": "I like cats",
+    "rdf_file": "brain_log_2021-12-10-10-30-08.trig"
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Leolani2",
+    "Response": "If you don't mind me asking. What types can piotr like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 7,
+    "Speaker": "Piotr",
+    "Response": "My favourite cat is Garfield",
+    "rdf_file": "brain_log_2021-12-10-10-30-37.trig"
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Leolani2",
+    "Response": "If you don't mind me asking. Has a dish ever cook by garfield?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 9,
+    "Speaker": "Piotr",
+    "Response": "No",
+    "rdf_file": null
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Leolani2",
+    "Response": "Many of us feel that way",
+    "rdf_file": null
+  },
+  {
+    "Turn": 11,
+    "Speaker": "Piotr",
+    "Response": "Garfield is orange",
+    "rdf_file": "brain_log_2021-12-10-10-31-03.trig"
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Leolani2",
+    "Response": "I am curious. What types of orange orInstance like orange do person orInstance usually be",
+    "rdf_file": null
+  },
+  {
+    "Turn": 13,
+    "Speaker": "Piotr",
+    "Response": "Orange is a color",
+    "rdf_file": "brain_log_2021-12-10-10-31-17.trig"
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Leolani2",
+    "Response": "I am curious. Has orange like by agent?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 15,
+    "Speaker": "Piotr",
+    "Response": "I like orange",
+    "rdf_file": "brain_log_2021-12-10-10-31-30.trig"
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Leolani2",
+    "Response": "Interesting! I did not know anything that piotr like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 17,
+    "Speaker": "Piotr",
+    "Response": "Garfield's favourite food is lasagne",
+    "rdf_file": "brain_log_2021-12-10-10-31-57.trig"
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Leolani2",
+    "Response": "Let me ask you something. Has garfield favourite food ever like by a agent?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 19,
+    "Speaker": "Piotr",
+    "Response": "I like lasagne too",
+    "rdf_file": null
+  },
+  {
+    "Turn": 20,
+    "Speaker": "Leolani2",
+    "Response": "May I ask you why?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 21,
+    "Speaker": "Leolani2",
+    "Response": "How are you doing? Can you tell me your name Ella?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 22,
+    "Speaker": null,
+    "Response": "Ella",
+    "rdf_file": null
+  },
+  {
+    "Turn": 23,
+    "Speaker": null,
+    "Response": "So your name is Ella?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 24,
+    "Speaker": null,
+    "Response": "yes",
+    "rdf_file": "brain_log_2021-12-10-10-34-32.trig"
+  },
+  {
+    "Turn": 25,
+    "Speaker": "Leolani2",
+    "Response": "Do you have any gossip?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Ella",
+    "Response": "My favourite animal is a flamingo",
+    "rdf_file": "brain_log_2021-12-10-10-34-49.trig"
+  },
+  {
+    "Turn": 27,
+    "Speaker": "Leolani2",
+    "Response": "I would like to know. What types of publisher orInstance like a flamingo do person orInstance usually favourite animal is",
+    "rdf_file": null
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Ella",
+    "Response": "a flamingo is an animal",
+    "rdf_file": "brain_log_2021-12-10-10-35-06.trig"
+  },
+  {
+    "Turn": 29,
+    "Speaker": "Leolani2",
+    "Response": "I am curious. What types can a flamingo be",
+    "rdf_file": null
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Ella",
+    "Response": "a flamingo is a bird",
+    "rdf_file": "brain_log_2021-12-10-10-35-20.trig"
+  },
+  {
+    "Turn": 31,
+    "Speaker": "Leolani2",
+    "Response": "I would like to know. What types can a flamingo be",
+    "rdf_file": null
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Ella",
+    "Response": "a flamingo is pink",
+    "rdf_file": "brain_log_2021-12-10-10-35-29.trig"
+  },
+  {
+    "Turn": 33,
+    "Speaker": "Leolani2",
+    "Response": "This is news to me. I had never heard about a flamingo before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Ella",
+    "Response": "a flamingo likes shrimp",
+    "rdf_file": null
+  },
+  {
+    "Turn": 35,
+    "Speaker": "Leolani2",
+    "Response": "I see",
+    "rdf_file": null
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Ella",
+    "Response": "a flamingo like shrimp",
+    "rdf_file": "brain_log_2021-12-10-10-35-51.trig"
+  },
+  {
+    "Turn": 37,
+    "Speaker": "Leolani2",
+    "Response": "This is news to me. I did not know anybody that a flamingo like",
+    "rdf_file": null
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Ella",
+    "Response": "a flamingo can fly",
+    "rdf_file": "brain_log_2021-12-10-10-36-08.trig"
+  },
+  {
+    "Turn": 39,
+    "Speaker": "Leolani2",
+    "Response": "I did not know that! I had never heard about a flamingo before!",
+    "rdf_file": null
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Ella",
+    "Response": "what do I like?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 41,
+    "Speaker": "Leolani2",
+    "Response": "I may be ignorant, bu tI don't know.I am sorry, I have no idea",
+    "rdf_file": null
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Ella",
+    "Response": "what is flamingo?",
+    "rdf_file": null
+  },
+  {
+    "Turn": 43,
+    "Speaker": "Leolani2",
+    "Response": "I have no idea.",
+    "rdf_file": null
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Ella",
+    "Response": "stop",
+    "rdf_file": null
+  },
+  {
+    "Turn": 45,
+    "Speaker": "Leolani2",
+    "Response": "... just like in my dream",
+    "rdf_file": null
+  }
+]
