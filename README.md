@@ -41,31 +41,39 @@ conda activate evaluating-coversations-as-ekg
 pip install --upgrade pip
 pip install -r requirements.txt --no-cache
 python -m ipykernel install --name=evaluating-coversations-as-ekg
-
-jupyter lab
 ```
 
-TO DO:
+[comment]: <> (TO DO:)
 
-- [Lea - done] Look at the cltl-chatbots repo, follow install using requirements.txt  (use the old triple extractor so
-  we can compare to student conversations)
-- [Lea - done] Figure out bug
-  in [Blenderbot](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb)
-- [Lea - current] Figure out bug
-  in [DialogueGPT](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb)
+[comment]: <> (- [Lea - done] Look at the cltl-chatbots repo, follow install using requirements.txt  &#40;use the old triple extractor so)
 
-TO ASSIGN:
+[comment]: <> (  we can compare to student conversations&#41;)
 
-- Adapt [script](https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/lets-chat_with_a_brain_replier.ipynb)
-  to chat with Blenderbot or DialogueGPT instead of user input. This script is a sample showing how to save data to
-  EMISSOR and how to connect the CLTL packages
-- Run automatic evaluations of Blenderbot or DialogueGPT conversations. This also saves them as csv with columns ready
-  for human evaluation.
-- Run graph evaluations of Blenderbot or DialogueGPT conversations
+[comment]: <> (- [Lea - done] Figure out bug)
 
-Notes for to do:
+[comment]: <> (  in [Blenderbot]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb&#41;)
 
-- Keep track of when you clear brain and when you continue on the same brain
+[comment]: <> (- [Lea - current] Figure out bug)
+
+[comment]: <> (  in [DialogueGPT]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb&#41;)
+
+[comment]: <> (TO ASSIGN:)
+
+[comment]: <> (- Adapt [script]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/lets-chat_with_a_brain_replier.ipynb&#41;)
+
+[comment]: <> (  to chat with Blenderbot or DialogueGPT instead of user input. This script is a sample showing how to save data to)
+
+[comment]: <> (  EMISSOR and how to connect the CLTL packages)
+
+[comment]: <> (- Run automatic evaluations of Blenderbot or DialogueGPT conversations. This also saves them as csv with columns ready)
+
+[comment]: <> (  for human evaluation.)
+
+[comment]: <> (- Run graph evaluations of Blenderbot or DialogueGPT conversations)
+
+[comment]: <> (Notes for to do:)
+
+[comment]: <> (- Keep track of when you clear brain and when you continue on the same brain)
 
 ## Authors
 
