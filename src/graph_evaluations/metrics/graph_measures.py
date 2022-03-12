@@ -101,9 +101,6 @@ def get_number_strong_comp(graph: nx.Graph):
 
 # Shortest Path Measures
 def get_shortest_path(graph: nx.Graph):
-    # if not 'g_net' in globals():
-    #    SystemError('No graph to analyzeto.')
-
     # shortest Paths --> must be connected
     graph_und = graph.to_undirected()
     if nx.is_connected(graph_und):
