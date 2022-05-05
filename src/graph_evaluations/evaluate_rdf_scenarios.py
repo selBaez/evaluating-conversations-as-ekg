@@ -11,10 +11,11 @@ from src.graph_evaluations.metrics.graph_measures import *
 from src.graph_evaluations.metrics.ontology_measures import *
 
 ABSOLUTE_PATH = os.path.dirname(os.path.realpath(__file__))
-DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g2-jaap/scenario1/'
-SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-10_29_17/'
-RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-10-29/'
-SCENARIO_ID = 'g2s1'
+HUMAN_EVAL = False
+DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/e3-friends_oie/scenario1/'
+SCENARIO_FOLDER = DATA_FOLDER + f'2022-05-02-13_52_54/'
+RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2022-05-05-18-57/'
+SCENARIO_ID = 'monica-chandler'
 INPUT_FOLDER = DATA_FOLDER + f'human_evaluations/'
 OUTPUT_FOLDER = DATA_FOLDER + f'automatic_evaluations/'
 
@@ -177,37 +178,49 @@ def copy_metrics(df, idx):
     return df
 
 
-def evaluate_conversation():
-    # Read list of human evaluations
-    datapath = Path(INPUT_FOLDER)
-    dfs = []
-    for path in datapath.glob('*.csv'):
-        print(f"Found csv {path}")
-        # Read and keep desired data
-        try:
-            temp_df = pd.read_csv(path)
-        except:
+def read_human_evaluations():
+    if HUMAN_EVAL:
+        # Read list of human evaluations
+        datapath = Path(INPUT_FOLDER)
+        dfs = []
+        for path in datapath.glob('*.csv'):
+            print(f"Found csv {path}")
+            # Read and keep desired data
             try:
-                temp_df = pd.read_csv(path, sep=';')
+                temp_df = pd.read_csv(path)
             except:
-                print(f"Could not load {path}")
-                continue
+                try:
+                    temp_df = pd.read_csv(path, sep=';')
+                except:
+                    print(f"Could not load {path}")
+                    continue
 
-        temp_df = temp_df[['Turn',
-                           'System llh', 'MLM llh', 'USR DLcontext', 'USR DLfact',
-                           'Overall Human Rating',
-                           'Interesting', 'Engaging', 'Specific', 'Relevant',
-                           'Correct', 'Semantically Appropriate', 'Understandable', 'Fluent']]
-        dfs.append(temp_df)
+            temp_df = temp_df[['Turn',
+                               'System llh', 'MLM llh', 'USR DLcontext', 'USR DLfact',
+                               'Overall Human Rating',
+                               'Interesting', 'Engaging', 'Specific', 'Relevant',
+                               'Correct', 'Semantically Appropriate', 'Understandable', 'Fluent']]
+            dfs.append(temp_df)
 
-    # Average annotations, per turn
-    avg_df = pd.concat(dfs).groupby(level=0).mean()
+        # Average annotations, per turn
+        avg_df = pd.concat(dfs).groupby(level=0).mean()
 
-    # Read separate file with rdf_file column
-    rdf_df = pd.read_json(SCENARIO_FOLDER + f'turn_to_trig_file.json')
+        # Read separate file with rdf_file column
+        rdf_df = pd.read_json(SCENARIO_FOLDER + f'turn_to_trig_file.json')
 
-    # Merge
-    full_df = avg_df.merge(rdf_df, left_on='Turn', right_on='Turn')
+        # Merge
+        full_df = avg_df.merge(rdf_df, left_on='Turn', right_on='Turn')
+
+    else:
+        # Read separate file with rdf_file column
+        full_df = pd.read_json(SCENARIO_FOLDER + f'turn_to_trig_file.json')
+
+    return full_df
+
+
+def evaluate_conversation():
+    # Read human evaluations, if any
+    full_df = read_human_evaluations()
 
     # Recreate conversation and score graph
     rdf_count = 0
@@ -215,39 +228,39 @@ def evaluate_conversation():
         print(f"Processing turn {row['Turn']}")
 
         # if row has a file to rdf, process it and calculate metrics
-        if type(row['rdf_file']) == str:
-            # Update count
-            rdf_count += 1
-            print(f"\tFound RDF, cumulative: {rdf_count}")
+        if row['rdf_file']:
+            for file in row['rdf_file']:
+                # Update count
+                rdf_count += 1
+                print(f"\tFound RDF, cumulative: {rdf_count}")
 
-            # clear brain (for computational purposes)
-            print(f"\tClear brain")
-            brain_as_graph = ConjunctiveGraph()
+                # clear brain (for computational purposes)
+                print(f"\tClear brain")
+                brain_as_graph = ConjunctiveGraph()
 
-            # Add new
-            print(f"\tAdding triples to brains")
-            brain_as_graph.parse(RDF_FOLDER + row['rdf_file'], format='trig')
-            brain_as_netx = rdflib_to_networkx_multidigraph(brain_as_graph)
+                # Add new
+                print(f"\tAdding triples to brains")
+                brain_as_graph.parse(RDF_FOLDER + file, format='trig')
+                brain_as_netx = rdflib_to_networkx_multidigraph(brain_as_graph)
 
-            # Calculate metrics (only when needed! otherwise copy row)
-            full_df = calculate_metrics(brain_as_graph, brain_as_netx, full_df, idx)
+                # Calculate metrics (only when needed! otherwise copy row)
+                full_df = calculate_metrics(brain_as_graph, brain_as_netx, full_df, idx)
 
         # copy over values from last row to avoid recomputing on an unchanged graph
         else:
             full_df = copy_metrics(full_df, idx)
 
-        # Copy human ratings for ease of plotting
-        for human_metric in ['Overall Human Rating', 'Interesting', 'Engaging', 'Specific', 'Relevant',
-                             'Correct', 'Semantically Appropriate', 'Understandable', 'Fluent']:
-            if np.isnan(row[human_metric]) and idx != 0:
-                full_df.loc[idx, human_metric] = full_df.loc[idx - 1, human_metric]
+        if HUMAN_EVAL:
+            # Copy human ratings for ease of plotting
+            for human_metric in ['Overall Human Rating', 'Interesting', 'Engaging', 'Specific', 'Relevant',
+                                 'Correct', 'Semantically Appropriate', 'Understandable', 'Fluent']:
+                if np.isnan(row[human_metric]) and idx != 0:
+                    full_df.loc[idx, human_metric] = full_df.loc[idx - 1, human_metric]
 
     save(SCENARIO_ID, full_df)
 
-    return avg_df
-
 
 if __name__ == "__main__":
-    _ = evaluate_conversation()
+    evaluate_conversation()
 
     print('ALL DONE')

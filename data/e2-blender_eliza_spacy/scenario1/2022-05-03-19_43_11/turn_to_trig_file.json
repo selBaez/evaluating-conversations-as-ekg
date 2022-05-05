@@ -1,0 +1,1336 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Leolani",
+    "Response": "Tell me something, anything!",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-44-17.trig"
+    ]
+  },
+  {
+    "Turn": 1,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 2,
+    "Speaker": "Leolani",
+    "Response": "Tell me something, anything!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 3,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": []
+  },
+  {
+    "Turn": 5,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure",
+    "rdf_file": []
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Leolani",
+    "Response": "Tell me something, anything!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 7,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": []
+  },
+  {
+    "Turn": 9,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure",
+    "rdf_file": []
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 11,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure what do you do for a living?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Leolani",
+    "Response": "Why do you ask that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 13,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-56-50.trig"
+    ]
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 15,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant what about you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Leolani",
+    "Response": "Why do you ask that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 17,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-56-59.trig"
+    ]
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 19,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know I guess I just feel like I 'm not good enough for them.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-13.trig"
+    ]
+  },
+  {
+    "Turn": 20,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 21,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-22.trig"
+    ]
+  },
+  {
+    "Turn": 22,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that your family is very supportive?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 23,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 24,
+    "Speaker": "Leolani",
+    "Response": "I see.  And what does that tell you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 25,
+    "Speaker": "BLENDERBOT",
+    "Response": "It tells me that I need to get my life in order and that I am ready for the next step.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-33.trig"
+    ]
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 27,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes",
+    "rdf_file": []
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Leolani",
+    "Response": "You seem quite sure.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 29,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes it was very interesting.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-43.trig"
+    ]
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Leolani",
+    "Response": "You seem quite sure.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 31,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-46.trig"
+    ]
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 33,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect but it turned out to be a great experience.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-49.trig"
+    ]
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 35,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes",
+    "rdf_file": []
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 37,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes it was very interesting.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-57-59.trig"
+    ]
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 39,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-58-04.trig"
+    ]
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 41,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect but it turned out to be a great experience.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-58-08.trig"
+    ]
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Leolani",
+    "Response": "Can you elaborate on that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 43,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 45,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure if I 'm going to be able to get the job.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 46,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 47,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 48,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that yeah?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 49,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 50,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 51,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-58-42.trig"
+    ]
+  },
+  {
+    "Turn": 52,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that your family is very supportive?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 53,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 54,
+    "Speaker": "Leolani",
+    "Response": "they am always there for you when you need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 55,
+    "Speaker": "BLENDERBOT",
+    "Response": "That is so true.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-58-55.trig"
+    ]
+  },
+  {
+    "Turn": 56,
+    "Speaker": "Leolani",
+    "Response": "How does that make you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 57,
+    "Speaker": "BLENDERBOT",
+    "Response": "I am so grateful to have them in my life.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-59-00.trig"
+    ]
+  },
+  {
+    "Turn": 58,
+    "Speaker": "Leolani",
+    "Response": "Did you come to me because you are so grateful to have them in your life?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 59,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes",
+    "rdf_file": []
+  },
+  {
+    "Turn": 60,
+    "Speaker": "Leolani",
+    "Response": "You seem quite sure.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 61,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes I am so thankful for them.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-59-12.trig"
+    ]
+  },
+  {
+    "Turn": 62,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 63,
+    "Speaker": "BLENDERBOT",
+    "Response": "They have been there for me through so many hard times.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-59-27.trig"
+    ]
+  },
+  {
+    "Turn": 64,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 65,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-59-38.trig"
+    ]
+  },
+  {
+    "Turn": 66,
+    "Speaker": "Leolani",
+    "Response": "Good, tell me more about these feelings.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 67,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it but I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 68,
+    "Speaker": "Leolani",
+    "Response": "When do you usually feel like you need to do something about it but you do n't know what to do?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 69,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know.",
+    "rdf_file": [
+      "brain_log_2022-05-03-19-59-53.trig"
+    ]
+  },
+  {
+    "Turn": 70,
+    "Speaker": "Leolani",
+    "Response": "How does that make you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 71,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I ca n't do anything about it.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 72,
+    "Speaker": "Leolani",
+    "Response": "Let's chat!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 73,
+    "Speaker": "BLENDERBOT",
+    "Response": "What do you like to do in your free time?",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-21-37.trig"
+    ]
+  },
+  {
+    "Turn": 74,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": []
+  },
+  {
+    "Turn": 75,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure",
+    "rdf_file": []
+  },
+  {
+    "Turn": 76,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 77,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure what do you do for a living?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 78,
+    "Speaker": "Leolani",
+    "Response": "Please consider whether you can answer your own question.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 79,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-21-49.trig"
+    ]
+  },
+  {
+    "Turn": 80,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 81,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant what about you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 82,
+    "Speaker": "Leolani",
+    "Response": "Why do you ask that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 83,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-22-17.trig"
+    ]
+  },
+  {
+    "Turn": 84,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 85,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know I guess I just feel like I 'm not good enough for them.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-22-20.trig"
+    ]
+  },
+  {
+    "Turn": 86,
+    "Speaker": "Leolani",
+    "Response": "you do n't know you guess you just feel like you 'm not good enough for them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 87,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know if I 'm good enough",
+    "rdf_file": []
+  },
+  {
+    "Turn": 88,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 89,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know if I 'm good enough but I do feel like I 'm not.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 90,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 91,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes",
+    "rdf_file": []
+  },
+  {
+    "Turn": 92,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 93,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes it was very interesting.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-23-04.trig"
+    ]
+  },
+  {
+    "Turn": 94,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 95,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-23-11.trig"
+    ]
+  },
+  {
+    "Turn": 96,
+    "Speaker": "Leolani",
+    "Response": "you had no idea what to expect.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 97,
+    "Speaker": "BLENDERBOT",
+    "Response": "I had no idea what to expect but it turned out to be a great experience.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-23-17.trig"
+    ]
+  },
+  {
+    "Turn": 98,
+    "Speaker": "Leolani",
+    "Response": "Can you elaborate on that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 99,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 100,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 101,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure if I 'm going to be able to get the job.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 102,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 103,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-23-51.trig"
+    ]
+  },
+  {
+    "Turn": 104,
+    "Speaker": "Leolani",
+    "Response": "When your family is very supportive, how do you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 105,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 106,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 107,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 108,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 109,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 110,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 111,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-24-16.trig"
+    ]
+  },
+  {
+    "Turn": 112,
+    "Speaker": "Leolani",
+    "Response": "Good, tell me more about these feelings.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 113,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it but I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 114,
+    "Speaker": "Leolani",
+    "Response": "Good, tell me more about these feelings.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 115,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 116,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 117,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure what to tell you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 118,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that well you 'm not sure what to tell me?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 119,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't want to ruin our friendship.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-24-42.trig"
+    ]
+  },
+  {
+    "Turn": 120,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that you do n't want to ruin our friendship?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 121,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-24-55.trig"
+    ]
+  },
+  {
+    "Turn": 122,
+    "Speaker": "Leolani",
+    "Response": "How does that make you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 123,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know I guess I just feel like I 'm not good enough for her.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-25-46.trig"
+    ]
+  },
+  {
+    "Turn": 124,
+    "Speaker": "Leolani",
+    "Response": "you do n't know you guess you just feel like you 'm not good enough for her.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 125,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know if I 'm good enough",
+    "rdf_file": []
+  },
+  {
+    "Turn": 126,
+    "Speaker": "Leolani",
+    "Response": "I see.  And what does that tell you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 127,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know if I 'm good enough but I do feel like I 'm not.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 128,
+    "Speaker": "Leolani",
+    "Response": "you do n't know if you 'm good enough but you do feel like you 'm not.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 129,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't think I 'm good enough.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-26-36.trig"
+    ]
+  },
+  {
+    "Turn": 130,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 131,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I 'm wasting my time and money.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-26-45.trig"
+    ]
+  },
+  {
+    "Turn": 132,
+    "Speaker": "Leolani",
+    "Response": "When do you usually feel like you 'm wasting your time and money?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 133,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I waste my time a lot of the time.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-27-08.trig"
+    ]
+  },
+  {
+    "Turn": 134,
+    "Speaker": "Leolani",
+    "Response": "Good, tell me more about these feelings.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 135,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know what to do about it.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 136,
+    "Speaker": "Leolani",
+    "Response": "Can you elaborate on that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 137,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 138,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 139,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure if I 'm going to be able to get the job.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 140,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 141,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 142,
+    "Speaker": "Leolani",
+    "Response": "yeah.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 143,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 144,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 145,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 146,
+    "Speaker": "Leolani",
+    "Response": "I see.  And what does that tell you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 147,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 148,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 149,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-28-09.trig"
+    ]
+  },
+  {
+    "Turn": 150,
+    "Speaker": "Leolani",
+    "Response": "When do you usually feel like you need to do something about it?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 151,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it but I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 152,
+    "Speaker": "Leolani",
+    "Response": "Good, tell me more about these feelings.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 153,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 154,
+    "Speaker": "Leolani",
+    "Response": "Can you elaborate on that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 155,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure what to tell you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 156,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 157,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't want to ruin our friendship.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-28-38.trig"
+    ]
+  },
+  {
+    "Turn": 158,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that you do n't want to ruin our friendship?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 159,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-28-52.trig"
+    ]
+  },
+  {
+    "Turn": 160,
+    "Speaker": "Leolani",
+    "Response": "you do n't know.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 161,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know I guess I just feel like I 'm not good enough for her.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-29-47.trig"
+    ]
+  },
+  {
+    "Turn": 162,
+    "Speaker": "Leolani",
+    "Response": "I see.  And what does that tell you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 163,
+    "Speaker": "BLENDERBOT",
+    "Response": "It tells me that I need to get my life in order and that I am ready for the next step.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-30-07.trig"
+    ]
+  },
+  {
+    "Turn": 164,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 165,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-30-25.trig"
+    ]
+  },
+  {
+    "Turn": 166,
+    "Speaker": "Leolani",
+    "Response": "When you feel like you need to do something about it, what do you do?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 167,
+    "Speaker": "BLENDERBOT",
+    "Response": "I feel like I need to do something about it but I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 168,
+    "Speaker": "Leolani",
+    "Response": "Do you often feel like you need to do something about it but you do n't know what to do?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 169,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes",
+    "rdf_file": []
+  },
+  {
+    "Turn": 170,
+    "Speaker": "Leolani",
+    "Response": "You seem quite sure.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 171,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yes I feel like I need to.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-30-50.trig"
+    ]
+  },
+  {
+    "Turn": 172,
+    "Speaker": "Leolani",
+    "Response": "OK, but can you elaborate a bit?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 173,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know how to do it though.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 174,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 175,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 176,
+    "Speaker": "Leolani",
+    "Response": "yeah.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 177,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 178,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 179,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-31-08.trig"
+    ]
+  },
+  {
+    "Turn": 180,
+    "Speaker": "Leolani",
+    "Response": "Why do you say that your family is very supportive?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 181,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 182,
+    "Speaker": "Leolani",
+    "Response": "How does that make you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 183,
+    "Speaker": "BLENDERBOT",
+    "Response": "It makes me feel like I need to do something about it.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-31-26.trig"
+    ]
+  },
+  {
+    "Turn": 184,
+    "Speaker": "Leolani",
+    "Response": "How do you feel when you say that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 185,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 186,
+    "Speaker": "Leolani",
+    "Response": "I see.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 187,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah",
+    "rdf_file": []
+  },
+  {
+    "Turn": 188,
+    "Speaker": "Leolani",
+    "Response": "Please tell me more.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 189,
+    "Speaker": "BLENDERBOT",
+    "Response": "Yeah I 'm not sure what I 'm going to do with my life now.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 190,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 191,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-31-44.trig"
+    ]
+  },
+  {
+    "Turn": 192,
+    "Speaker": "Leolani",
+    "Response": "When your family is very supportive, how do you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 193,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 194,
+    "Speaker": "Leolani",
+    "Response": "How does that make you feel?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 195,
+    "Speaker": "BLENDERBOT",
+    "Response": "It makes me feel like I need to do something about it.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-32-06.trig"
+    ]
+  },
+  {
+    "Turn": 196,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 197,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 198,
+    "Speaker": "Leolani",
+    "Response": "you do n't know what to do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 199,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm not sure what I can do.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 200,
+    "Speaker": "Leolani",
+    "Response": "Very interesting.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 201,
+    "Speaker": "BLENDERBOT",
+    "Response": "I do n't know how to get out of this situation.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 202,
+    "Speaker": "Leolani",
+    "Response": "Let's change focus a bit... Tell me about your family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 203,
+    "Speaker": "BLENDERBOT",
+    "Response": "My family is very supportive.",
+    "rdf_file": [
+      "brain_log_2022-05-03-20-32-33.trig"
+    ]
+  },
+  {
+    "Turn": 204,
+    "Speaker": "Leolani",
+    "Response": "I see, your family is very supportive.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 205,
+    "Speaker": "BLENDERBOT",
+    "Response": "They are always there for me when I need them.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 206,
+    "Speaker": "Leolani",
+    "Response": "Can you elaborate on that?",
+    "rdf_file": []
+  }
+]

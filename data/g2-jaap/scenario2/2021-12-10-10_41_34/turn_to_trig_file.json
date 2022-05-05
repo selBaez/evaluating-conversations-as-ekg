@@ -3,336 +3,336 @@
     "Turn": 0,
     "Speaker": "Leolani2",
     "Response": "Yo Can you tell me your name Piotr?",
-    "rdf_file": "brain_log_2021-12-10-10-41-43.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-41-43.trig"]
   },
   {
     "Turn": 1,
     "Speaker": null,
     "Response": "Piotr",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 2,
     "Speaker": null,
     "Response": "So your name is Piotr?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 3,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-42-54.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-42-54.trig"]
   },
   {
     "Turn": 4,
     "Speaker": "Leolani2",
     "Response": "Would you like to chat? I'll do my best to keep up",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 5,
     "Speaker": "Piotr",
     "Response": "I am a student",
-    "rdf_file": "brain_log_2021-12-10-10-43-13.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-43-13.trig"]
   },
   {
     "Turn": 6,
     "Speaker": "Leolani2",
     "Response": "This is news to me. I did not know anything that piotr be",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 7,
     "Speaker": "Piotr",
     "Response": "I live in Amstelveen",
-    "rdf_file": "brain_log_2021-12-10-10-43-25.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-43-25.trig"]
   },
   {
     "Turn": 8,
     "Speaker": "Leolani2",
     "Response": "I am glad to have learned something new. I did not know anybody that piotr live in",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 9,
     "Speaker": "Piotr",
     "Response": "I know Ella",
-    "rdf_file": "brain_log_2021-12-10-10-43-40.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-43-40.trig"]
   },
   {
     "Turn": 10,
     "Speaker": "Leolani2",
     "Response": "Exciting news! I am excited to get to know about you!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 11,
     "Speaker": "Piotr",
     "Response": "Ella like flamingo",
-    "rdf_file": "brain_log_2021-12-10-10-44-07.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-44-07.trig"]
   },
   {
     "Turn": 12,
     "Speaker": "Leolani2",
     "Response": "Exciting news! I did not know anything that ella like",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 13,
     "Speaker": "Piotr",
     "Response": "What Ella like?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 14,
     "Speaker": "Leolani2",
     "Response": "I don't know",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 15,
     "Speaker": "Piotr",
     "Response": "What does Ella like?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 16,
     "Speaker": "Leolani2",
     "Response": "I wouldn't know!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 17,
     "Speaker": "Piotr",
     "Response": "Ella like what?",
-    "rdf_file": "brain_log_2021-12-10-10-44-41.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-44-41.trig"]
   },
   {
     "Turn": 18,
     "Speaker": "Leolani2",
     "Response": "If you don't mind me asking. Has ella be member of institution?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 19,
     "Speaker": "Piotr",
     "Response": "Ella is student",
-    "rdf_file": "brain_log_2021-12-10-10-45-09.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-45-09.trig"]
   },
   {
     "Turn": 20,
     "Speaker": "Leolani2",
     "Response": "If you don't mind me asking. Has ella own object?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 21,
     "Speaker": "Leolani2",
     "Response": "How's it going? What is your name? Ella?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 22,
     "Speaker": null,
     "Response": "Ella",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 23,
     "Speaker": null,
     "Response": "So your name is Ella?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 24,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-45-27.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-45-27.trig"]
   },
   {
     "Turn": 25,
     "Speaker": "Leolani2",
     "Response": "Tell me anything, I love learning things",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 26,
     "Speaker": "Ella",
     "Response": "I am student",
-    "rdf_file": "brain_log_2021-12-10-10-45-38.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-45-38.trig"]
   },
   {
     "Turn": 27,
     "Speaker": "Leolani2",
     "Response": "I did not know that! I had never heard about student before!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 28,
     "Speaker": "Ella",
     "Response": "Alkmaar is city",
-    "rdf_file": "brain_log_2021-12-10-10-45-47.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-45-47.trig"]
   },
   {
     "Turn": 29,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. What types can alkmaar be",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 30,
     "Speaker": "Ella",
     "Response": "I live in Alkmaar",
-    "rdf_file": "brain_log_2021-12-10-10-45-57.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-45-57.trig"]
   },
   {
     "Turn": 31,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has ella ever cook by a food?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 32,
     "Speaker": "Ella",
     "Response": "Ella cook food",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 33,
     "Speaker": "Leolani2",
     "Response": "That's just what he\/she\/they would've said",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 34,
     "Speaker": "Ella",
     "Response": "I know Piotr",
-    "rdf_file": "brain_log_2021-12-10-10-46-33.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-46-33.trig"]
   },
   {
     "Turn": 35,
     "Speaker": "Leolani2",
     "Response": "I just learned something, I had never heard about piotr before!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 36,
     "Speaker": "Ella",
     "Response": "where piotr live?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 37,
     "Speaker": "Leolani2",
     "Response": "Is this why fate brought us together?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 38,
     "Speaker": "Ella",
     "Response": "where piotr live in?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 39,
     "Speaker": "Leolani2",
     "Response": "I may be ignorant, bu tI don't know.I am sorry, I have no idea",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 40,
     "Speaker": "Ella",
     "Response": "what I like?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 41,
     "Speaker": "Leolani2",
     "Response": "Piotr told me you like flamingo and that you like what",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 42,
     "Speaker": "Ella",
     "Response": "what Piotr like?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 43,
     "Speaker": "Leolani2",
     "Response": "I have no idea.",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 44,
     "Speaker": "Ella",
     "Response": "where I live?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 45,
     "Speaker": "Leolani2",
     "Response": "I wouldn't know!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 46,
     "Speaker": "Ella",
     "Response": "where I live in?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 47,
     "Speaker": "Leolani2",
     "Response": "I don't know",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 48,
     "Speaker": "Ella",
     "Response": "what is Alkmaar?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 49,
     "Speaker": "Leolani2",
     "Response": "you told me alkmaar is city",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 50,
     "Speaker": "Ella",
     "Response": "who lives in Alkmaar?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 51,
     "Speaker": "Leolani2",
     "Response": "I have no idea.",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 52,
     "Speaker": "Ella",
     "Response": "who live in alkmaar?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 53,
     "Speaker": "Leolani2",
     "Response": "you told me you live in alkmaar",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 54,
     "Speaker": "Ella",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 55,
     "Speaker": "Leolani2",
     "Response": "So let it be written, ... so let it be done",
-    "rdf_file": null
+    "rdf_file": []
   }
 ]

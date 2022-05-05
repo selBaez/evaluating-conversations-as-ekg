@@ -1,41 +1,71 @@
-
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g1-piek/scenario1/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-07-16_26_14/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-07-16-26/'
 SCENARIO_ID = 'g1s1'
 
 
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g1-piek/scenario2/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-09_35_57/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-09-36/'
 SCENARIO_ID = 'g1s2'
 
 
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g2-jaap/scenario1/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-10_29_17/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-10-29/'
 SCENARIO_ID = 'g2s1'
 
 
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g2-jaap/scenario2/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-10_41_34/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-10-41/'
 SCENARIO_ID = 'g2s2'
 
-# Problem
-DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g3-lea/scenario1/'
-SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-09_35_02/'
-RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-09-35/'
-SCENARIO_ID = 'g3s1'
 
-
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g4-tae/scenario1/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-10_26_45/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-10-26/'
 SCENARIO_ID = 'g4s1'
 
 
+HUMAN_EVAL = True
 DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/g4-tae/scenario2/'
 SCENARIO_FOLDER = DATA_FOLDER + f'2021-12-10-09_23_53/'
 RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2021-12-10-09-23/'
 SCENARIO_ID = 'g4s2'
+
+##########################################
+
+# HUMAN_EVAL = False
+# DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/e1-blender_leolani_spacy/scenario1/'
+# SCENARIO_FOLDER = DATA_FOLDER + f'2022-05-03-14_35_35/'
+# RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2022-05-03-14-35/'
+# SCENARIO_ID = 'e1s1'
+
+
+HUMAN_EVAL = False
+DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/e1-blender_leolani_spacy/scenario2/'
+SCENARIO_FOLDER = DATA_FOLDER + f'2022-05-03-15_06_25/'
+RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2022-05-03-15-06/'
+SCENARIO_ID = 'blender-agent'
+
+
+HUMAN_EVAL = False
+DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/e2-blender_eliza_spacy/scenario1/'
+SCENARIO_FOLDER = DATA_FOLDER + f'2022-05-03-19_43_11/'
+RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2022-05-03-19-44/'
+SCENARIO_ID = 'blender-eliza'
+
+
+HUMAN_EVAL = False
+DATA_FOLDER = ABSOLUTE_PATH + f'/../../data/e3-friends_oie/scenario1/'
+SCENARIO_FOLDER = DATA_FOLDER + f'2022-05-02-13_52_54/'
+RDF_FOLDER = SCENARIO_FOLDER + f'rdf/2022-05-05-18-57/'
+SCENARIO_ID = 'monica-chandler'
+
+

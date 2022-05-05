@@ -1,0 +1,1662 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Chandler",
+    "Response": "Hey, Mon.",
+    "rdf_file": [
+      "brain_log_2022-05-05-18-57-39.trig"
+    ]
+  },
+  {
+    "Turn": 1,
+    "Speaker": "Monica",
+    "Response": "Hey-hey-hey. You wanna hear something that sucks.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 2,
+    "Speaker": "Chandler",
+    "Response": "Do I ever.",
+    "rdf_file": [
+      "brain_log_2022-05-05-18-58-00.trig",
+      "brain_log_2022-05-05-18-58-09.trig",
+      "brain_log_2022-05-05-18-58-17.trig"
+    ]
+  },
+  {
+    "Turn": 3,
+    "Speaker": "Monica",
+    "Response": "Chris says they're closing down the bar.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Chandler",
+    "Response": "No way!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 5,
+    "Speaker": "Monica",
+    "Response": "Yeah, apparently they're turning it into some kinda coffee place.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Chandler",
+    "Response": "Just coffee! Where are we gonna hang out now?",
+    "rdf_file": [
+      "brain_log_2022-05-05-18-58-47.trig",
+      "brain_log_2022-05-05-18-58-56.trig",
+      "brain_log_2022-05-05-18-59-01.trig",
+      "brain_log_2022-05-05-18-59-09.trig",
+      "brain_log_2022-05-05-18-59-18.trig",
+      "brain_log_2022-05-05-18-59-27.trig"
+    ]
+  },
+  {
+    "Turn": 7,
+    "Speaker": "Monica",
+    "Response": "Got me.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Chandler",
+    "Response": "Can I get a beer.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 9,
+    "Speaker": "Monica",
+    "Response": "Hey, did you pick a roommate?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Chandler",
+    "Response": "You betcha!",
+    "rdf_file": [
+      "brain_log_2022-05-05-18-59-46.trig"
+    ]
+  },
+  {
+    "Turn": 11,
+    "Speaker": "Monica",
+    "Response": "Is it the Italian guy?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Chandler",
+    "Response": "Um-mm, yeah right!",
+    "rdf_file": [
+      "brain_log_2022-05-05-18-59-53.trig",
+      "brain_log_2022-05-05-18-59-58.trig"
+    ]
+  },
+  {
+    "Turn": 13,
+    "Speaker": "Chandler",
+    "Response": "Umm, this is nice.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Monica",
+    "Response": "I know, it is isn't it?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 15,
+    "Speaker": "Chandler",
+    "Response": "No, I mean it, this feels really good. Is it a hundred percent cotton?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-00-14.trig"
+    ]
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Monica",
+    "Response": "Yeah! And I got it on sale, too.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 17,
+    "Speaker": "Chandler",
+    "Response": "Anyway, I should go, one of the lifeguards was just about to dismantle a nuclear device.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-00-29.trig",
+      "brain_log_2022-05-05-19-00-36.trig",
+      "brain_log_2022-05-05-19-00-40.trig",
+      "brain_log_2022-05-05-19-00-41.trig"
+    ]
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Monica",
+    "Response": "Well, if you wanna get a drink later we can.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 19,
+    "Speaker": "Chandler",
+    "Response": "Oh yeah, that sounds great.  Oh, and listen, it's, it's gonna be....",
+    "rdf_file": []
+  },
+  {
+    "Turn": 20,
+    "Speaker": "Monica",
+    "Response": "I know. Thanks.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 21,
+    "Speaker": "Chandler",
+    "Response": "Hey, anybody got a length of rope about six feet long with a little nouse at the end?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 22,
+    "Speaker": "Monica",
+    "Response": "Honey, what's the matter?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 23,
+    "Speaker": "Chandler",
+    "Response": "I just saw Janice.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 24,
+    "Speaker": "Chandler",
+    "Response": "I know, it's beautiful. Amazing.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 25,
+    "Speaker": "Chandler",
+    "Response": "I had to kiss Phoebe and Rachel every time I left a room, I mean it's too bad they didn't see us having sex.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Monica",
+    "Response": "Do you know anything about women?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 27,
+    "Speaker": "Chandler",
+    "Response": "No.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-01-27.trig",
+      "brain_log_2022-05-05-19-01-38.trig"
+    ]
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Monica",
+    "Response": "That's all right.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 29,
+    "Speaker": "Chandler",
+    "Response": "Okay.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-01-58.trig"
+    ]
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Chandler",
+    "Response": "Oh-hey-hey-hey! There you are!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 31,
+    "Speaker": "Monica",
+    "Response": "Umm, listen there's something I think you should know.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Chandler",
+    "Response": "Oh, is this about you-you dating the nurse?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 33,
+    "Speaker": "Chandler",
+    "Response": "Yeah, Joey already told me, and I am so-so fine.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Chandler",
+    "Response": "I mean, you and I we're just, y'know, we're nothing, we're goofin' around.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 35,
+    "Speaker": "Monica",
+    "Response": "Umm, actually I was about to tell you that I was, I was going to get out of it, but hey, if we're just goofing around then uh, maybe I",
+    "rdf_file": []
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Chandler",
+    "Response": "Fine! Maybe I will too!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-02-13.trig",
+      "brain_log_2022-05-05-19-02-20.trig",
+      "brain_log_2022-05-05-19-02-27.trig"
+    ]
+  },
+  {
+    "Turn": 37,
+    "Speaker": "Chandler",
+    "Response": "So, are you really gonna go out with that nurse man?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Monica",
+    "Response": "Well uh, you and I are just goofing around, I thought, why not goof around with him.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 39,
+    "Speaker": "Chandler",
+    "Response": "Y'know, I don't know if you've ever looked up the term goofing around in the dictionary' Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Chandler",
+    "Response": "But if you have this new fangled dictionary that gets you made at me, then we have to, y'know, get you my original dictionary.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 41,
+    "Speaker": "Chandler",
+    "Response": "I am",
+    "rdf_file": []
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Monica",
+    "Response": "I think you're better than you think you are.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 43,
+    "Speaker": "Chandler",
+    "Response": "Really? Okay, so",
+    "rdf_file": []
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Monica",
+    "Response": "Know when to stop.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 45,
+    "Speaker": "Chandler",
+    "Response": "Y'know, I sensed that I should stop. So we're okay?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 46,
+    "Speaker": "Monica",
+    "Response": "Yeah. All right, I'm gonna go tell Dan that it's not gonna happen.  Don't do the dance.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 47,
+    "Speaker": "Chandler",
+    "Response": "Right!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-02-34.trig",
+      "brain_log_2022-05-05-19-02-41.trig",
+      "brain_log_2022-05-05-19-02-45.trig",
+      "brain_log_2022-05-05-19-02-48.trig",
+      "brain_log_2022-05-05-19-02-52.trig",
+      "brain_log_2022-05-05-19-02-56.trig"
+    ]
+  },
+  {
+    "Turn": 48,
+    "Speaker": "Chandler",
+    "Response": "Yeah.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 49,
+    "Speaker": "Monica",
+    "Response": "Look, these clowns are trying to take us for a ride and I'm not gonna let 'em!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 50,
+    "Speaker": "Monica",
+    "Response": "And we're not a couple of suckers!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 51,
+    "Speaker": "Chandler",
+    "Response": "I hear ya, Mugsy!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 52,
+    "Speaker": "Chandler",
+    "Response": "But look, all these rooms are fine okay?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 53,
+    "Speaker": "Chandler",
+    "Response": "Can you just pick one so I can watch--have a perfect, magical weekend together with you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 54,
+    "Speaker": "Monica",
+    "Response": "Okay,",
+    "rdf_file": []
+  },
+  {
+    "Turn": 55,
+    "Speaker": "Chandler",
+    "Response": "Nothing! It's over! Dammit! This is regularly scheduled programming!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 56,
+    "Speaker": "Monica",
+    "Response": "Can we turn the TV off? Okay? Do we really want to spend the entire weekend like this?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 57,
+    "Speaker": "Chandler",
+    "Response": "Oh, I'm sorry, am I getting in the way of all the room switching fun?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-03-03.trig",
+      "brain_log_2022-05-05-19-03-13.trig",
+      "brain_log_2022-05-05-19-03-24.trig",
+      "brain_log_2022-05-05-19-03-34.trig",
+      "brain_log_2022-05-05-19-03-42.trig",
+      "brain_log_2022-05-05-19-03-47.trig",
+      "brain_log_2022-05-05-19-03-56.trig",
+      "brain_log_2022-05-05-19-04-01.trig",
+      "brain_log_2022-05-05-19-04-06.trig",
+      "brain_log_2022-05-05-19-04-15.trig",
+      "brain_log_2022-05-05-19-04-20.trig",
+      "brain_log_2022-05-05-19-04-25.trig",
+      "brain_log_2022-05-05-19-04-29.trig"
+    ]
+  },
+  {
+    "Turn": 58,
+    "Speaker": "Monica",
+    "Response": "Hey, don't blame me for wigging tonight!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 59,
+    "Speaker": "Chandler",
+    "Response": "Oh, who should I blame? The nice bell man who had to drag out luggage to 10 different rooms?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 60,
+    "Speaker": "Monica",
+    "Response": "I don't know, how about the idiot who thought he could drive from Albany to Canada on a half a tank of gas!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 61,
+    "Speaker": "Chandler",
+    "Response": "Do not speak ill of the dead.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 62,
+    "Speaker": "Monica",
+    "Response": "We're supposed to uh, be spending a romantic weekend together, it-it, what is the matter with you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 63,
+    "Speaker": "Chandler",
+    "Response": "I just want to watch a little television. What is the big deal? Geez, relax mom.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-04-46.trig",
+      "brain_log_2022-05-05-19-04-54.trig",
+      "brain_log_2022-05-05-19-05-03.trig",
+      "brain_log_2022-05-05-19-05-15.trig",
+      "brain_log_2022-05-05-19-05-23.trig",
+      "brain_log_2022-05-05-19-05-31.trig",
+      "brain_log_2022-05-05-19-05-39.trig",
+      "brain_log_2022-05-05-19-05-44.trig"
+    ]
+  },
+  {
+    "Turn": 64,
+    "Speaker": "Monica",
+    "Response": "What did you say?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 65,
+    "Speaker": "Chandler",
+    "Response": "I said, \"Geez, relax Monnnnn.\"",
+    "rdf_file": []
+  },
+  {
+    "Turn": 66,
+    "Speaker": "Monica",
+    "Response": "I can't",
+    "rdf_file": []
+  },
+  {
+    "Turn": 67,
+    "Speaker": "Chandler",
+    "Response": "Oh! Look at that, time's up! My turn!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 68,
+    "Speaker": "Monica",
+    "Response": "That was a half an hour?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 69,
+    "Speaker": "Chandler",
+    "Response": "It's your timer.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 70,
+    "Speaker": "Monica",
+    "Response": "Y'know, I don't like to brag about it, but I give the",
+    "rdf_file": []
+  },
+  {
+    "Turn": 71,
+    "Speaker": "Chandler",
+    "Response": "All right, then massage me up right nice!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-06-09.trig"
+    ]
+  },
+  {
+    "Turn": 72,
+    "Speaker": "Chandler",
+    "Response": "Ah! Ahh!! Ahh!!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 73,
+    "Speaker": "Monica",
+    "Response": "It's so good, isn't it?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 74,
+    "Speaker": "Chandler",
+    "Response": "It's so good I don't know what I've done to deserve it!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-06-11.trig",
+      "brain_log_2022-05-05-19-06-16.trig"
+    ]
+  },
+  {
+    "Turn": 75,
+    "Speaker": "Monica",
+    "Response": "Say good-bye to sore muscles!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 76,
+    "Speaker": "Chandler",
+    "Response": "Good-bye muscles!!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 77,
+    "Speaker": "Monica",
+    "Response": "You are so cute! How did you get to be so cute?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 78,
+    "Speaker": "Chandler",
+    "Response": "Well, my Grandfather was Swedish and my Grandmother was actually a tiny little bunny.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-06-36.trig",
+      "brain_log_2022-05-05-19-06-46.trig",
+      "brain_log_2022-05-05-19-06-52.trig",
+      "brain_log_2022-05-05-19-06-57.trig",
+      "brain_log_2022-05-05-19-06-59.trig",
+      "brain_log_2022-05-05-19-07-01.trig"
+    ]
+  },
+  {
+    "Turn": 79,
+    "Speaker": "Monica",
+    "Response": "Okay, now you're even cuter!!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 80,
+    "Speaker": "Chandler",
+    "Response": "Y'know that is a popular opinion today I must say.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-07-04.trig",
+      "brain_log_2022-05-05-19-07-10.trig",
+      "brain_log_2022-05-05-19-07-13.trig",
+      "brain_log_2022-05-05-19-07-16.trig"
+    ]
+  },
+  {
+    "Turn": 81,
+    "Speaker": "Monica",
+    "Response": "What?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 82,
+    "Speaker": "Chandler",
+    "Response": "The weirdest thing happened at the coffee house, I think, I think Phoebe was hitting on me.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 83,
+    "Speaker": "Monica",
+    "Response": "What are you talking about?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 84,
+    "Speaker": "Chandler",
+    "Response": "I'm telling you I think Phoebe thinks I'm foxy.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 85,
+    "Speaker": "Monica",
+    "Response": "That's not possible!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 86,
+    "Speaker": "Chandler",
+    "Response": "Ow!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 87,
+    "Speaker": "Monica",
+    "Response": "I'm sorry it's just, Phoebe just always thought you were, you were charming in a, in a sexless kind of way.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 88,
+    "Speaker": "Chandler",
+    "Response": "Oh, y'know I-I can't hear that enough.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-07-18.trig",
+      "brain_log_2022-05-05-19-07-24.trig",
+      "brain_log_2022-05-05-19-07-31.trig",
+      "brain_log_2022-05-05-19-07-39.trig",
+      "brain_log_2022-05-05-19-07-47.trig",
+      "brain_log_2022-05-05-19-07-59.trig",
+      "brain_log_2022-05-05-19-08-11.trig",
+      "brain_log_2022-05-05-19-08-23.trig",
+      "brain_log_2022-05-05-19-08-37.trig",
+      "brain_log_2022-05-05-19-08-50.trig",
+      "brain_log_2022-05-05-19-08-59.trig",
+      "brain_log_2022-05-05-19-09-11.trig",
+      "brain_log_2022-05-05-19-09-24.trig",
+      "brain_log_2022-05-05-19-09-35.trig",
+      "brain_log_2022-05-05-19-09-48.trig",
+      "brain_log_2022-05-05-19-10-01.trig",
+      "brain_log_2022-05-05-19-10-11.trig"
+    ]
+  },
+  {
+    "Turn": 89,
+    "Speaker": "Monica",
+    "Response": "I'm sorry, I think that you just misunderstood her.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 90,
+    "Speaker": "Chandler",
+    "Response": "No, I didn't misunderstand, okay? She was all over me! She touched my bicep for crying out loud!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-10-33.trig"
+    ]
+  },
+  {
+    "Turn": 91,
+    "Speaker": "Monica",
+    "Response": "This bicep?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 92,
+    "Speaker": "Chandler",
+    "Response": "Well it's not flexed right now!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 93,
+    "Speaker": "Monica",
+    "Response": "You're so efficient. I love you!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 94,
+    "Speaker": "Chandler",
+    "Response": "Let's go!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-10-58.trig",
+      "brain_log_2022-05-05-19-11-12.trig",
+      "brain_log_2022-05-05-19-11-23.trig"
+    ]
+  },
+  {
+    "Turn": 95,
+    "Speaker": "Monica",
+    "Response": "No-no-no! We need something old!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 96,
+    "Speaker": "Chandler",
+    "Response": "Ohh, great, I have condom in my wallet I've had since I was twelve.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-11-51.trig",
+      "brain_log_2022-05-05-19-12-07.trig"
+    ]
+  },
+  {
+    "Turn": 97,
+    "Speaker": "Monica",
+    "Response": "That'll work!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 98,
+    "Speaker": "Chandler",
+    "Response": "I don't think so.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 99,
+    "Speaker": "Monica",
+    "Response": "Okay, now we just need something borrowed!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 100,
+    "Speaker": "Chandler",
+    "Response": "Here just'take this.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-12-30.trig",
+      "brain_log_2022-05-05-19-12-44.trig",
+      "brain_log_2022-05-05-19-13-02.trig",
+      "brain_log_2022-05-05-19-13-16.trig",
+      "brain_log_2022-05-05-19-13-31.trig",
+      "brain_log_2022-05-05-19-13-46.trig",
+      "brain_log_2022-05-05-19-14-01.trig",
+      "brain_log_2022-05-05-19-14-16.trig"
+    ]
+  },
+  {
+    "Turn": 101,
+    "Speaker": "Monica",
+    "Response": "That's stealing!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 102,
+    "Speaker": "Chandler",
+    "Response": "No, we'll-we'll bring it back! Just put it under your dress.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 103,
+    "Speaker": "Monica",
+    "Response": "A new pair of shoes for the Chan-Chan man!  Yes!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 104,
+    "Speaker": "Chandler",
+    "Response": "Yes! I've-I've never seen a roll like this in my life!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 105,
+    "Speaker": "Monica",
+    "Response": "That's right baby! Okay, what do I want now?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 106,
+    "Speaker": "Chandler",
+    "Response": "Okay, ah umm, ah, a 8. Ah, a 6?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-14-46.trig"
+    ]
+  },
+  {
+    "Turn": 107,
+    "Speaker": "Monica",
+    "Response": "Pick a number! That is your",
+    "rdf_file": []
+  },
+  {
+    "Turn": 108,
+    "Speaker": "Chandler",
+    "Response": "8. 8!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-15-21.trig"
+    ]
+  },
+  {
+    "Turn": 109,
+    "Speaker": "Monica",
+    "Response": "Thank you!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 110,
+    "Speaker": "Chandler",
+    "Response": "If you get this one, we buy everybody here a steak dinner!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 111,
+    "Speaker": "Monica",
+    "Response": "That kid really kicked me hard on the plane.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 112,
+    "Speaker": "Chandler",
+    "Response": "Well you did pull his hair.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-16-07.trig",
+      "brain_log_2022-05-05-19-16-23.trig",
+      "brain_log_2022-05-05-19-16-42.trig",
+      "brain_log_2022-05-05-19-16-59.trig",
+      "brain_log_2022-05-05-19-17-15.trig",
+      "brain_log_2022-05-05-19-17-31.trig",
+      "brain_log_2022-05-05-19-17-48.trig",
+      "brain_log_2022-05-05-19-18-04.trig"
+    ]
+  },
+  {
+    "Turn": 113,
+    "Speaker": "Monica",
+    "Response": "He took my snack!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 114,
+    "Speaker": "Chandler",
+    "Response": "I'm not getting into this again!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-18-36.trig"
+    ]
+  },
+  {
+    "Turn": 115,
+    "Speaker": "Monica",
+    "Response": "Okay! Oh God, y'know what? It's really bad.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 116,
+    "Speaker": "Chandler",
+    "Response": "Well, I told you not to walk. Here.  There. Okay.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-19-00.trig",
+      "brain_log_2022-05-05-19-19-15.trig"
+    ]
+  },
+  {
+    "Turn": 117,
+    "Speaker": "Monica",
+    "Response": "This doesn't mean anything, does it?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 118,
+    "Speaker": "Chandler",
+    "Response": "Hi.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 119,
+    "Speaker": "Monica",
+    "Response": "Hi.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 120,
+    "Speaker": "Chandler",
+    "Response": "Hi, listen, I'm sorry about before.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 121,
+    "Speaker": "Chandler",
+    "Response": "I don't need to have a game room.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 122,
+    "Speaker": "Chandler",
+    "Response": "I mean when I was a kid I only played those games because I couldn't get girls, and now I",
+    "rdf_file": []
+  },
+  {
+    "Turn": 123,
+    "Speaker": "Monica",
+    "Response": "Stop it Chandler.  I'm sorry too.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 124,
+    "Speaker": "Chandler",
+    "Response": "Really?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-19-54.trig",
+      "brain_log_2022-05-05-19-20-15.trig"
+    ]
+  },
+  {
+    "Turn": 125,
+    "Speaker": "Monica",
+    "Response": "Yeah! Oh yes!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 126,
+    "Speaker": "Chandler",
+    "Response": "Ohh.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 127,
+    "Speaker": "Monica",
+    "Response": "Listen, we don't have to make that a guest room, we can think of something to do with the room together.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 128,
+    "Speaker": "Chandler",
+    "Response": "That's a great idea! We can",
+    "rdf_file": []
+  },
+  {
+    "Turn": 129,
+    "Speaker": "Monica",
+    "Response": "Oh no it's not, no it's not. It's a first date. I'm",
+    "rdf_file": []
+  },
+  {
+    "Turn": 130,
+    "Speaker": "Chandler",
+    "Response": "Ho-oh, he's gonna get some!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-20-44.trig",
+      "brain_log_2022-05-05-19-21-02.trig",
+      "brain_log_2022-05-05-19-21-20.trig"
+    ]
+  },
+  {
+    "Turn": 131,
+    "Speaker": "Chandler",
+    "Response": "Of the glare from the streetlight out of his apartment.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 132,
+    "Speaker": "Chandler",
+    "Response": "Y'know so umm, he's closed the drapes there so he can have a nice, pleasant conversation with your little sister.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 133,
+    "Speaker": "Chandler",
+    "Response": "Well, I'm off to bed!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 134,
+    "Speaker": "Monica",
+    "Response": "Hey sweetie!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 135,
+    "Speaker": "Chandler",
+    "Response": "Hey!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 136,
+    "Speaker": "Chandler",
+    "Response": "There's no back to this couch!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 137,
+    "Speaker": "Monica",
+    "Response": "Why are you reading this? You hate this kind of stuff.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 138,
+    "Speaker": "Chandler",
+    "Response": "Yeah I know, but I figured a shot y'know?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-21-45.trig",
+      "brain_log_2022-05-05-19-22-03.trig"
+    ]
+  },
+  {
+    "Turn": 139,
+    "Speaker": "Chandler",
+    "Response": "Maybe one of those stories would make me cry and then you wouldn't think I was y'know, all dead inside.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 140,
+    "Speaker": "Monica",
+    "Response": "Oh that's so sweet! Look Chandler I don't care if you can't cry, I love you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 141,
+    "Speaker": "Chandler",
+    "Response": "Oh that makes me feel so warm in my hollow tin chest.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-22-30.trig"
+    ]
+  },
+  {
+    "Turn": 142,
+    "Speaker": "Monica",
+    "Response": "Stop it!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 143,
+    "Speaker": "Chandler",
+    "Response": "No, I mean, come on, seriously think about it, we get married, we're up at the altar and I'm like this.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 144,
+    "Speaker": "Monica",
+    "Response": "I won't care, because I know you will be feeling it all in here.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 145,
+    "Speaker": "Chandler",
+    "Response": "Yeah?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 146,
+    "Speaker": "Chandler",
+    "Response": "Okay to come in?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 147,
+    "Speaker": "Monica",
+    "Response": "Yeah, come on, eat, whatever you want. Dr. Roger got beeped again.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 148,
+    "Speaker": "Chandler",
+    "Response": "Yeah I know, guess who beeped him?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-23-04.trig",
+      "brain_log_2022-05-05-19-23-28.trig"
+    ]
+  },
+  {
+    "Turn": 149,
+    "Speaker": "Monica",
+    "Response": "What?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 150,
+    "Speaker": "Chandler",
+    "Response": "I'm the ruptured spleen.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 151,
+    "Speaker": "Monica",
+    "Response": "Why would you do that?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 152,
+    "Speaker": "Chandler",
+    "Response": "Because you shouldn't be with him.  You should be with me.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 153,
+    "Speaker": "Monica",
+    "Response": "Really?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 154,
+    "Speaker": "Chandler",
+    "Response": "When you were talking about Roger, that was killing me!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 155,
+    "Speaker": "Chandler",
+    "Response": "Look, things like last night they don't just happen.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 156,
+    "Speaker": "Chandler",
+    "Response": "Or at least not to me.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 157,
+    "Speaker": "Chandler",
+    "Response": "Or with the other two women, in the morning y'know I was just lying there and I couldn't wait to just go hang out with my friends, but with you I always y'know with a friend.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 158,
+    "Speaker": "Monica",
+    "Response": "Chandler!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 159,
+    "Speaker": "Chandler",
+    "Response": "I know you probably don't want to go out with me, y'know because I make too many jokes and I've never been in a serious relationship and I guess I'm not technically a \"doctor'\"",
+    "rdf_file": []
+  },
+  {
+    "Turn": 160,
+    "Speaker": "Monica",
+    "Response": "There was just one woman, wasn't there?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 161,
+    "Speaker": "Chandler",
+    "Response": "No, there were two.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 162,
+    "Speaker": "Monica",
+    "Response": "Including me?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 163,
+    "Speaker": "Chandler",
+    "Response": "Oh yeah.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 164,
+    "Speaker": "Chandler",
+    "Response": "I am so, so, so, so sorry!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 165,
+    "Speaker": "Monica",
+    "Response": "Uh-huh.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 166,
+    "Speaker": "Chandler",
+    "Response": "And I will cook anything you want in here , and do anything in there!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 167,
+    "Speaker": "Monica",
+    "Response": "Yeah you will!  And, are you kiddin' me?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 168,
+    "Speaker": "Chandler",
+    "Response": "Come on Monica, it's our Valentine's Day. Please? Please-please, please?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-24-10.trig"
+    ]
+  },
+  {
+    "Turn": 169,
+    "Speaker": "Monica",
+    "Response": "Okay.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 170,
+    "Speaker": "Chandler",
+    "Response": "Okay.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 171,
+    "Speaker": "Chandler",
+    "Response": "So, are we going in there?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 172,
+    "Speaker": "Monica",
+    "Response": "I am!!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 173,
+    "Speaker": "Chandler",
+    "Response": "Oh come on guys, it's not like I moved to Europe! I just moved across the hall! And",
+    "rdf_file": []
+  },
+  {
+    "Turn": 174,
+    "Speaker": "Monica",
+    "Response": "Ahh! Aren't you dressed yet?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 175,
+    "Speaker": "Chandler",
+    "Response": "Am I naked again?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 176,
+    "Speaker": "Monica",
+    "Response": "We're supposed to meet my parents in 15 minutes.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 177,
+    "Speaker": "Chandler",
+    "Response": "Yeah okay, I was just talking to the guys. Just look at them I mean, is it okay if they come visit?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-24-44.trig",
+      "brain_log_2022-05-05-19-25-09.trig",
+      "brain_log_2022-05-05-19-25-34.trig",
+      "brain_log_2022-05-05-19-25-55.trig",
+      "brain_log_2022-05-05-19-26-19.trig",
+      "brain_log_2022-05-05-19-26-45.trig",
+      "brain_log_2022-05-05-19-27-11.trig"
+    ]
+  },
+  {
+    "Turn": 178,
+    "Speaker": "Monica",
+    "Response": "Wh?! What about my allergies?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 179,
+    "Speaker": "Chandler",
+    "Response": "Oh right, your allergies.  All her, she hates you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 180,
+    "Speaker": "Chandler",
+    "Response": "I can't believe I did this! What an idiot!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 181,
+    "Speaker": "Monica",
+    "Response": "Oh, stop beating yourself up!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 182,
+    "Speaker": "Monica",
+    "Response": "People make mistakes!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 183,
+    "Speaker": "Monica",
+    "Response": "These things happen!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 184,
+    "Speaker": "Monica",
+    "Response": "There aren't any message you've forgotten to give me are there?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 185,
+    "Speaker": "Monica",
+    "Response": "Apparently you're not very good at it!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 186,
+    "Speaker": "Monica",
+    "Response": "I",
+    "rdf_file": []
+  },
+  {
+    "Turn": 187,
+    "Speaker": "Monica",
+    "Response": "I can't believe her, y'know it's just'it's so typical.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 188,
+    "Speaker": "Chandler",
+    "Response": "Now Monica, I know you're upset, but don't forget.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-27-42.trig",
+      "brain_log_2022-05-05-19-28-06.trig"
+    ]
+  },
+  {
+    "Turn": 189,
+    "Speaker": "Chandler",
+    "Response": "There is going to be a wedding, you are going to throw the bouquet, and",
+    "rdf_file": []
+  },
+  {
+    "Turn": 190,
+    "Speaker": "Monica",
+    "Response": "Paris?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 191,
+    "Speaker": "Chandler",
+    "Response": "We will take a moonlit walk on the Rue de la .",
+    "rdf_file": []
+  },
+  {
+    "Turn": 192,
+    "Speaker": "Monica",
+    "Response": "Keep talking.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 193,
+    "Speaker": "Chandler",
+    "Response": "Then we will sprinkle rose pedals on the bed and make love. Not just because it's romantic, but because I can!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 194,
+    "Speaker": "Monica",
+    "Response": "I love you!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 195,
+    "Speaker": "Monica",
+    "Response": "Chandler, listen to me sweetie, I know you can do this. Okay? You have a beautiful smile.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 196,
+    "Speaker": "Chandler",
+    "Response": "I do?",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-28-30.trig",
+      "brain_log_2022-05-05-19-28-54.trig",
+      "brain_log_2022-05-05-19-29-20.trig",
+      "brain_log_2022-05-05-19-29-42.trig",
+      "brain_log_2022-05-05-19-30-05.trig"
+    ]
+  },
+  {
+    "Turn": 197,
+    "Speaker": "Monica",
+    "Response": "Yeah!  All right, maybe you don't have to smile. Let's try something else. Let's try umm, try looking sexy.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 198,
+    "Speaker": "Chandler",
+    "Response": "Okay.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-30-42.trig",
+      "brain_log_2022-05-05-19-31-11.trig",
+      "brain_log_2022-05-05-19-31-41.trig"
+    ]
+  },
+  {
+    "Turn": 199,
+    "Speaker": "Monica",
+    "Response": "Or not.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 200,
+    "Speaker": "Monica",
+    "Response": "What?! What are you doing?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 201,
+    "Speaker": "Chandler",
+    "Response": "Do you know what just happened?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 202,
+    "Speaker": "Monica",
+    "Response": "Yeah. We-we had sex and then we fell asleep.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 203,
+    "Speaker": "Chandler",
+    "Response": "No. We were in the middle of sex'and",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-32-19.trig",
+      "brain_log_2022-05-05-19-32-49.trig",
+      "brain_log_2022-05-05-19-33-15.trig"
+    ]
+  },
+  {
+    "Turn": 204,
+    "Speaker": "Monica",
+    "Response": "Nooo! No, that's not true. No, best time ever! Yeah, you rocked my world!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 205,
+    "Speaker": "Chandler",
+    "Response": "Monica!",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-33-49.trig"
+    ]
+  },
+  {
+    "Turn": 206,
+    "Speaker": "Monica",
+    "Response": "She's sleeping.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 207,
+    "Speaker": "Chandler",
+    "Response": "I know, just quick-quick question, quick question. Which one was",
+    "rdf_file": []
+  },
+  {
+    "Turn": 208,
+    "Speaker": "Monica",
+    "Response": "Deep Impact",
+    "rdf_file": []
+  },
+  {
+    "Turn": 209,
+    "Speaker": "Chandler",
+    "Response": "Sorry, I just'can't sleep.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 210,
+    "Speaker": "Chandler",
+    "Response": "Ooh!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 211,
+    "Speaker": "Chandler",
+    "Response": "Where is that book that you are reading with the two women who were ice-skating and wearing, wearing those hats with the flowers on it?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 212,
+    "Speaker": "Chandler",
+    "Response": "Because every time I look at that cover I'm like",
+    "rdf_file": []
+  },
+  {
+    "Turn": 213,
+    "Speaker": "Monica",
+    "Response": "It is in the living room where there is also a light! And no one will kick you in the shin.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 214,
+    "Speaker": "Monica",
+    "Response": "That really was some of your best work.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 215,
+    "Speaker": "Chandler",
+    "Response": "Hm-hmm, I told you!  I can't believe that I've only got two hours before I call in sick for work.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-34-20.trig"
+    ]
+  },
+  {
+    "Turn": 216,
+    "Speaker": "Monica",
+    "Response": "I have to be up in seven minutes.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 217,
+    "Speaker": "Chandler",
+    "Response": "Well, you're not gonna believe this, but if you have seven minutes",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-34-56.trig",
+      "brain_log_2022-05-05-19-35-26.trig",
+      "brain_log_2022-05-05-19-35-55.trig",
+      "brain_log_2022-05-05-19-36-24.trig"
+    ]
+  },
+  {
+    "Turn": 218,
+    "Speaker": "Monica",
+    "Response": "Really?!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 219,
+    "Speaker": "Chandler",
+    "Response": "Do you wanna?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 220,
+    "Speaker": "Monica",
+    "Response": "Okay! You get the vacuum cleaner and I'll get the furniture polish!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 221,
+    "Speaker": "Monica",
+    "Response": "No, there is no way! It can",
+    "rdf_file": []
+  },
+  {
+    "Turn": 222,
+    "Speaker": "Chandler",
+    "Response": "Why is your family",
+    "rdf_file": []
+  },
+  {
+    "Turn": 223,
+    "Speaker": "Monica",
+    "Response": "He cannot play at our wedding!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 224,
+    "Speaker": "Monica",
+    "Response": "I mean everyone will leave!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 225,
+    "Speaker": "Monica",
+    "Response": "I mean come on, that is just noise!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 226,
+    "Speaker": "Monica",
+    "Response": "It's not even a song!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 227,
+    "Speaker": "Chandler",
+    "Response": "If you listen very carefully, I think its",
+    "rdf_file": []
+  },
+  {
+    "Turn": 228,
+    "Speaker": "Monica",
+    "Response": "Yes!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 229,
+    "Speaker": "Chandler",
+    "Response": "So I really never get to win anymore?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 230,
+    "Speaker": "Monica",
+    "Response": "How much did ever really win before?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 231,
+    "Speaker": "Chandler",
+    "Response": "Okay, ten blocks down. Five to go.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 232,
+    "Speaker": "Monica",
+    "Response": "Oh wait! Stop! Stop! Stop!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 233,
+    "Speaker": "Chandler",
+    "Response": "Oh I'm sorry! Do you need a break?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 234,
+    "Speaker": "Monica",
+    "Response": "My boots in tan! Hey! Can you get a little closer so I can see the price?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 235,
+    "Speaker": "Chandler",
+    "Response": "I can see it from right here. It'll cost you one husband.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-36-53.trig",
+      "brain_log_2022-05-05-19-37-22.trig",
+      "brain_log_2022-05-05-19-37-51.trig",
+      "brain_log_2022-05-05-19-38-16.trig",
+      "brain_log_2022-05-05-19-38-46.trig",
+      "brain_log_2022-05-05-19-39-14.trig"
+    ]
+  },
+  {
+    "Turn": 236,
+    "Speaker": "Monica",
+    "Response": "Okay, I'm sorry. I think I can walk the rest of the way now. Just-just give me my boots.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 237,
+    "Speaker": "Chandler",
+    "Response": "That was amazing.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-39-52.trig",
+      "brain_log_2022-05-05-19-40-22.trig",
+      "brain_log_2022-05-05-19-40-50.trig",
+      "brain_log_2022-05-05-19-41-22.trig",
+      "brain_log_2022-05-05-19-41-52.trig"
+    ]
+  },
+  {
+    "Turn": 238,
+    "Speaker": "Monica",
+    "Response": "I know.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 239,
+    "Speaker": "Monica",
+    "Response": "Hey, do you realize we may have just changed our lives forever?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 240,
+    "Speaker": "Monica",
+    "Response": "We may have just started a family.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 241,
+    "Speaker": "Monica",
+    "Response": "Nine months from now we can be here, having our own baby.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 242,
+    "Speaker": "Chandler",
+    "Response": "And if not, we got to do it on a bucket.",
+    "rdf_file": [
+      "brain_log_2022-05-05-19-42-26.trig",
+      "brain_log_2022-05-05-19-42-58.trig"
+    ]
+  }
+]

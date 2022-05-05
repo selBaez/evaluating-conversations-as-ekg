@@ -3,342 +3,342 @@
     "Turn": 0,
     "Speaker": "Leolani2",
     "Response": "How are you doing? Who are you? Stranger?",
-    "rdf_file": "brain_log_2021-12-10-09-36-39.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-36-39.trig"]
   },
   {
     "Turn": 1,
     "Speaker": "Imme",
     "Response": "Imme",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 2,
     "Speaker": "Leolani2",
     "Response": "So your name is Imme?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 3,
     "Speaker": "Imme",
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-09-36-53.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-36-53.trig"]
   },
   {
     "Turn": 4,
     "Speaker": "Leolani2",
     "Response": "Do you have any gossip?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 5,
     "Speaker": "Imme",
     "Response": "Thomas is in love",
-    "rdf_file": "brain_log_2021-12-10-09-37-18.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-37-18.trig"]
   },
   {
     "Turn": 6,
     "Speaker": "Leolani2",
     "Response": "Exciting news! I did not know anybody who be in love",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 7,
     "Speaker": "Imme",
     "Response": "What is love?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 8,
     "Speaker": "Leolani2",
     "Response": "I may be ignorant, bu tI don't know.I am sorry, I have no idea",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 9,
     "Speaker": "Imme",
     "Response": "Love is an emotion",
-    "rdf_file": "brain_log_2021-12-10-09-38-21.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-38-21.trig"]
   },
   {
     "Turn": 10,
     "Speaker": "Leolani2",
     "Response": "I am curious. What kinds of things can be a an emotion like love",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 11,
     "Speaker": "Imme",
     "Response": "Anger is an emotion too",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 12,
     "Speaker": "Leolani2",
     "Response": "Wise words by wise men write wise deeds in wise pen",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 13,
     "Speaker": "Imme",
     "Response": "Imme is a wise man",
-    "rdf_file": "brain_log_2021-12-10-09-39-11.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-39-11.trig"]
   },
   {
     "Turn": 14,
     "Speaker": "Leolani2",
     "Response": "I just learned something, I had never heard about a wise man before!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 15,
     "Speaker": "Imme",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 16,
     "Speaker": "Leolani2",
     "Response": "As the prophecy foretold",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 17,
     "Speaker": "Leolani2",
     "Response": "Hey! Who are you? Stranger?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 18,
     "Speaker": "Thomas",
     "Response": "Thomas",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 19,
     "Speaker": "Leolani2",
     "Response": "So your name is Thomas?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 20,
     "Speaker": "Thomas",
     "Response": "Yes",
-    "rdf_file": "brain_log_2021-12-10-09-39-34.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-39-34.trig"]
   },
   {
     "Turn": 21,
     "Speaker": "Leolani2",
     "Response": "Tell me something, anything!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 22,
     "Speaker": "Thomas",
     "Response": "I live in Amsterdam",
-    "rdf_file": "brain_log_2021-12-10-09-41-23.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-41-23.trig"]
   },
   {
     "Turn": 23,
     "Speaker": "Leolani2",
     "Response": "Exciting news! I did not know anybody who live in amsterdam",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 24,
     "Speaker": "Thomas",
     "Response": "Imme also lives in Amsterdam",
-    "rdf_file": "brain_log_2021-12-10-09-41-57.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-41-57.trig"]
   },
   {
     "Turn": 25,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has imme be from location?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 26,
     "Speaker": "Thomas",
     "Response": "Imme is not from Rotterdam",
-    "rdf_file": "brain_log_2021-12-10-09-42-22.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-42-22.trig"]
   },
   {
     "Turn": 27,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has imme ever favorite of a interest?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 28,
     "Speaker": "Thomas",
     "Response": "Imme likes reading",
-    "rdf_file": "brain_log_2021-12-10-09-42-51.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-42-51.trig"]
   },
   {
     "Turn": 29,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has imme ever favorite of a interest?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 30,
     "Speaker": "Thomas",
     "Response": "I like reading",
-    "rdf_file": "brain_log_2021-12-10-09-43-15.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-43-15.trig"]
   },
   {
     "Turn": 31,
     "Speaker": "Leolani2",
     "Response": "I am glad to have learned something new. I did not know anybody who like reading",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 32,
     "Speaker": "Thomas",
     "Response": "Who likes reading?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 33,
     "Speaker": "Leolani2",
     "Response": "I may be ignorant, bu tI don't know.I am sorry, I have no idea",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 34,
     "Speaker": "Thomas",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 35,
     "Speaker": "Leolani2",
     "Response": "Interesting",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 36,
     "Speaker": "Leolani2",
     "Response": "Good to see you! I've told you my name, but what about yours? Stranger?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 37,
     "Speaker": "Fina",
     "Response": "fina",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 38,
     "Speaker": "Leolani2",
     "Response": "So your name is Fina?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 39,
     "Speaker": "Fina",
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-09-44-04.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-44-04.trig"]
   },
   {
     "Turn": 40,
     "Speaker": "Leolani2",
     "Response": "Tell me something, anything!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 41,
     "Speaker": "Fina",
     "Response": "I like to cook",
-    "rdf_file": "brain_log_2021-12-10-09-44-28.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-44-28.trig"]
   },
   {
     "Turn": 42,
     "Speaker": "Leolani2",
     "Response": "If you don't mind me asking. What types of Instance like cook do person orInstance usually like to",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 43,
     "Speaker": "Fina",
     "Response": "A person can cook food",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 44,
     "Speaker": "Leolani2",
     "Response": "But at what cost?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 45,
     "Speaker": "Fina",
     "Response": "A pizza costs ten euros",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 46,
     "Speaker": "Leolani2",
     "Response": "So let it be written, ... so let it be done",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 47,
     "Speaker": "Fina",
     "Response": "VU university is in Amsterdam",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 48,
     "Speaker": "Leolani2",
     "Response": "In this economy?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 49,
     "Speaker": "Fina",
     "Response": "I always fly business class ",
-    "rdf_file": "brain_log_2021-12-10-09-49-45.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-49-45.trig"]
   },
   {
     "Turn": 50,
     "Speaker": "Leolani2",
     "Response": "This is news to me. I had never heard about business class before!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 51,
     "Speaker": "Fina",
     "Response": "Airplanes can fly",
-    "rdf_file": "brain_log_2021-12-10-09-50-15.trig"
+    "rdf_file": ["brain_log_2021-12-10-09-50-15.trig"]
   },
   {
     "Turn": 52,
     "Speaker": "Leolani2",
     "Response": "If you don't mind me asking. What types can airplanes can fly",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 53,
     "Speaker": "Fina",
     "Response": "All airplanes can fly",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 54,
     "Speaker": "Leolani2",
     "Response": "May I ask you why?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 55,
     "Speaker": "Fina",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 56,
     "Speaker": "Leolani2",
     "Response": "Interesting",
-    "rdf_file": null
+    "rdf_file": []
   }
 ]

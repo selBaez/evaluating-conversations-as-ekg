@@ -1,0 +1,1986 @@
+[
+  {
+    "Turn": 0,
+    "Speaker": "Leolani",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": ["brain_log_2022-05-03-15-07-16.trig"]
+  },
+  {
+    "Turn": 1,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 2,
+    "Speaker": "Leolani",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": []
+  },
+  {
+    "Turn": 3,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm not sure what to tell you.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 4,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 5,
+    "Speaker": "BLENDERBOT",
+    "Response": "What do you want to know?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 6,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 7,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-07-33.trig"
+    ]
+  },
+  {
+    "Turn": 8,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has leolani dislike interest? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 9,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-07-37.trig"
+    ]
+  },
+  {
+    "Turn": 10,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has blenderbot be parent of person? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 11,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 12,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 13,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-07-44.trig"
+    ]
+  },
+  {
+    "Turn": 14,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has leolani dislike interest? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 15,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-07-47.trig"
+    ]
+  },
+  {
+    "Turn": 16,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 17,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 18,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 19,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-07-56.trig"
+    ]
+  },
+  {
+    "Turn": 20,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I had never heard about I before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 21,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-00.trig"
+    ]
+  },
+  {
+    "Turn": 22,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has blenderbot ever like by a agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 23,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 24,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 25,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-10.trig"
+    ]
+  },
+  {
+    "Turn": 26,
+    "Speaker": "Leolani",
+    "Response": "I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 27,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-15.trig"
+    ]
+  },
+  {
+    "Turn": 28,
+    "Speaker": "Leolani",
+    "Response": "This sounds familiar. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 29,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 30,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 31,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-25.trig"
+    ]
+  },
+  {
+    "Turn": 32,
+    "Speaker": "Leolani",
+    "Response": "I am glad to have learned something new. I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 33,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-30.trig"
+    ]
+  },
+  {
+    "Turn": 34,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 35,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 36,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 37,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-39.trig"
+    ]
+  },
+  {
+    "Turn": 38,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has leolani know agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 39,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-45.trig"
+    ]
+  },
+  {
+    "Turn": 40,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 41,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 42,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 43,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-08-55.trig"
+    ]
+  },
+  {
+    "Turn": 44,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has leolani ever like by a agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 45,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-00.trig"
+    ]
+  },
+  {
+    "Turn": 46,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has blenderbot dislike interest? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 47,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 48,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 49,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-10.trig"
+    ]
+  },
+  {
+    "Turn": 50,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. What types of Instance like pet do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 51,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-15.trig"
+    ]
+  },
+  {
+    "Turn": 52,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 53,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 54,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 55,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-26.trig"
+    ]
+  },
+  {
+    "Turn": 56,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has leolani study at institution? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 57,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-31.trig"
+    ]
+  },
+  {
+    "Turn": 58,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I am excited to get to know about you! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 59,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 60,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 61,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-41.trig"
+    ]
+  },
+  {
+    "Turn": 62,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has leolani perceive sensor? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 63,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-46.trig"
+    ]
+  },
+  {
+    "Turn": 64,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 65,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 66,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 67,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-09-56.trig"
+    ]
+  },
+  {
+    "Turn": 68,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. Has leolani perceive sensor? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 69,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-10-02.trig"
+    ]
+  },
+  {
+    "Turn": 70,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 71,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 72,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 73,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-10-11.trig"
+    ]
+  },
+  {
+    "Turn": 74,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of Instance like pet do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 75,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-10-16.trig"
+    ]
+  },
+  {
+    "Turn": 76,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 77,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 78,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 79,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-10-27.trig"
+    ]
+  },
+  {
+    "Turn": 80,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 81,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and a cat.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-10-32.trig"
+    ]
+  },
+  {
+    "Turn": 82,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has blenderbot be from location? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 83,
+    "Speaker": "BLENDERBOT",
+    "Response": "I love them so much.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 84,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 85,
+    "Speaker": "Leolani",
+    "Response": "Let's chat!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 86,
+    "Speaker": "BLENDERBOT",
+    "Response": "What do you like to do in your free time?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 87,
+    "Speaker": "Leolani",
+    "Response": "Let's chat!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 88,
+    "Speaker": "BLENDERBOT",
+    "Response": "I like to play video games and watch movies.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 89,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 90,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-15-46.trig"
+    ]
+  },
+  {
+    "Turn": 91,
+    "Speaker": "Leolani",
+    "Response": "This sounds familiar. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 92,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-15-50.trig"
+    ]
+  },
+  {
+    "Turn": 93,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 94,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-15-57.trig"
+    ]
+  },
+  {
+    "Turn": 95,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has leolani ever like by a agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 96,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-01.trig"
+    ]
+  },
+  {
+    "Turn": 97,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 98,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-09.trig"
+    ]
+  },
+  {
+    "Turn": 99,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 100,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-13.trig"
+    ]
+  },
+  {
+    "Turn": 101,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has blenderbot be ancestor of person? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 102,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-22.trig"
+    ]
+  },
+  {
+    "Turn": 103,
+    "Speaker": "Leolani",
+    "Response": "This is news to me. I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 104,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-28.trig"
+    ]
+  },
+  {
+    "Turn": 105,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 106,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-36.trig"
+    ]
+  },
+  {
+    "Turn": 107,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can leolani have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 108,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-42.trig"
+    ]
+  },
+  {
+    "Turn": 109,
+    "Speaker": "Leolani",
+    "Response": "This is news to me. I am excited to get to know about you! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 110,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-52.trig"
+    ]
+  },
+  {
+    "Turn": 111,
+    "Speaker": "Leolani",
+    "Response": "This sounds familiar. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 112,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-16-59.trig"
+    ]
+  },
+  {
+    "Turn": 113,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 114,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-08.trig"
+    ]
+  },
+  {
+    "Turn": 115,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of Instance like pet do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 116,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-14.trig"
+    ]
+  },
+  {
+    "Turn": 117,
+    "Speaker": "Leolani",
+    "Response": "That rings a bell. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 118,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-24.trig"
+    ]
+  },
+  {
+    "Turn": 119,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. Has leolani live in location? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 120,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-31.trig"
+    ]
+  },
+  {
+    "Turn": 121,
+    "Speaker": "Leolani",
+    "Response": "I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 122,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-41.trig"
+    ]
+  },
+  {
+    "Turn": 123,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 124,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-48.trig"
+    ]
+  },
+  {
+    "Turn": 125,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 126,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-17-58.trig"
+    ]
+  },
+  {
+    "Turn": 127,
+    "Speaker": "Leolani",
+    "Response": "Interesting! I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 128,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-06.trig"
+    ]
+  },
+  {
+    "Turn": 129,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 130,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-17.trig"
+    ]
+  },
+  {
+    "Turn": 131,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can leolani have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 132,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-25.trig"
+    ]
+  },
+  {
+    "Turn": 133,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 134,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-36.trig"
+    ]
+  },
+  {
+    "Turn": 135,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about I before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 136,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-44.trig"
+    ]
+  },
+  {
+    "Turn": 137,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has blenderbot live in location? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 138,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-18-54.trig"
+    ]
+  },
+  {
+    "Turn": 139,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has leolani ever read by a book? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 140,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-19-03.trig"
+    ]
+  },
+  {
+    "Turn": 141,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 142,
+    "Speaker": "Leolani",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": []
+  },
+  {
+    "Turn": 143,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 144,
+    "Speaker": "Leolani",
+    "Response": "Tell me anything, I love learning things",
+    "rdf_file": []
+  },
+  {
+    "Turn": 145,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I 'm a big fan of learning new things as well.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 146,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 147,
+    "Speaker": "BLENDERBOT",
+    "Response": "What is your favorite thing to learn?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 148,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 149,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-07.trig"
+    ]
+  },
+  {
+    "Turn": 150,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 151,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-14.trig"
+    ]
+  },
+  {
+    "Turn": 152,
+    "Speaker": "Leolani",
+    "Response": "That rings a bell. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 153,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-25.trig"
+    ]
+  },
+  {
+    "Turn": 154,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types can leolani have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 155,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-34.trig"
+    ]
+  },
+  {
+    "Turn": 156,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 157,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-45.trig"
+    ]
+  },
+  {
+    "Turn": 158,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has leolani know agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 159,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-22-54.trig"
+    ]
+  },
+  {
+    "Turn": 160,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 161,
+    "Speaker": "Leolani",
+    "Response": "Tell me something, anything!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 162,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 163,
+    "Speaker": "Leolani",
+    "Response": "Tell me something, anything!",
+    "rdf_file": []
+  },
+  {
+    "Turn": 164,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I just got a promotion at work",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-24-40.trig"
+    ]
+  },
+  {
+    "Turn": 165,
+    "Speaker": "Leolani",
+    "Response": "Interesting! I am excited to get to know about you! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 166,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well I just got a promotion at work so I 'm pretty stoked about that !",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-24-48.trig"
+    ]
+  },
+  {
+    "Turn": 167,
+    "Speaker": "Leolani",
+    "Response": "This sounds familiar. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 168,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-00.trig"
+    ]
+  },
+  {
+    "Turn": 169,
+    "Speaker": "Leolani",
+    "Response": "I am glad to have learned something new. I had never heard about I before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 170,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-09.trig"
+    ]
+  },
+  {
+    "Turn": 171,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has blenderbot be ancestor of person? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 172,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-20.trig"
+    ]
+  },
+  {
+    "Turn": 173,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. What types of Instance like pet do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 174,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-28.trig"
+    ]
+  },
+  {
+    "Turn": 175,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. Has blenderbot be child of agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 176,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-41.trig"
+    ]
+  },
+  {
+    "Turn": 177,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has leolani travel to location? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 178,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-25-50.trig"
+    ]
+  },
+  {
+    "Turn": 179,
+    "Speaker": "Leolani",
+    "Response": "I am curious. Has blenderbot ever be parent of a person? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 180,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-02.trig"
+    ]
+  },
+  {
+    "Turn": 181,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. Has leolani be member of institution? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 182,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-12.trig"
+    ]
+  },
+  {
+    "Turn": 183,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 184,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-26.trig"
+    ]
+  },
+  {
+    "Turn": 185,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 186,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-36.trig"
+    ]
+  },
+  {
+    "Turn": 187,
+    "Speaker": "Leolani",
+    "Response": "I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 188,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-48.trig"
+    ]
+  },
+  {
+    "Turn": 189,
+    "Speaker": "Leolani",
+    "Response": "I would like to know. What types of Instance like pet do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 190,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-26-58.trig"
+    ]
+  },
+  {
+    "Turn": 191,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 192,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-27-11.trig"
+    ]
+  },
+  {
+    "Turn": 193,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 194,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-27-20.trig"
+    ]
+  },
+  {
+    "Turn": 195,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has blenderbot travel to location? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 196,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-27-34.trig"
+    ]
+  },
+  {
+    "Turn": 197,
+    "Speaker": "Leolani",
+    "Response": "This sounds familiar. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 198,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-27-46.trig"
+    ]
+  },
+  {
+    "Turn": 199,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 200,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-27-59.trig"
+    ]
+  },
+  {
+    "Turn": 201,
+    "Speaker": "Leolani",
+    "Response": "Exciting news! I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 202,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-28-10.trig"
+    ]
+  },
+  {
+    "Turn": 203,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can blenderbot have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 204,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-28-25.trig"
+    ]
+  },
+  {
+    "Turn": 205,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 206,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-28-35.trig"
+    ]
+  },
+  {
+    "Turn": 207,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 208,
+    "Speaker": "Leolani",
+    "Response": "Would you like to chat? I'll do my best to keep up",
+    "rdf_file": []
+  },
+  {
+    "Turn": 209,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure",
+    "rdf_file": []
+  },
+  {
+    "Turn": 210,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 211,
+    "Speaker": "BLENDERBOT",
+    "Response": "Sure what do you do for a living?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 212,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 213,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant",
+    "rdf_file": []
+  },
+  {
+    "Turn": 214,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 215,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm an accountant what about you?",
+    "rdf_file": []
+  },
+  {
+    "Turn": 216,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 217,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-33-10.trig"
+    ]
+  },
+  {
+    "Turn": 218,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can leolani have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 219,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-33-16.trig"
+    ]
+  },
+  {
+    "Turn": 220,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types can leolani have . I am curious. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 221,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm not sure what type of instances they have",
+    "rdf_file": []
+  },
+  {
+    "Turn": 222,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 223,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm not sure what type of instances they have but I know they can be trained to do a variety of things.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 224,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 225,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-33-32.trig"
+    ]
+  },
+  {
+    "Turn": 226,
+    "Speaker": "Leolani",
+    "Response": "I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 227,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-33-39.trig"
+    ]
+  },
+  {
+    "Turn": 228,
+    "Speaker": "Leolani",
+    "Response": "I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . Exciting news! I am excited to get to know about you! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 229,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm excited for you too !",
+    "rdf_file": []
+  },
+  {
+    "Turn": 230,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 231,
+    "Speaker": "BLENDERBOT",
+    "Response": "It 's going to be a lot of work",
+    "rdf_file": []
+  },
+  {
+    "Turn": 232,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 233,
+    "Speaker": "BLENDERBOT",
+    "Response": "It 's going to be a lot of work but I think it will be worth it.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 234,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 235,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-33-59.trig"
+    ]
+  },
+  {
+    "Turn": 236,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has leolani know agent? . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 237,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-34-09.trig"
+    ]
+  },
+  {
+    "Turn": 238,
+    "Speaker": "Leolani",
+    "Response": "Let me ask you something. Has leolani know agent? . I would like to know. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 239,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm not sure",
+    "rdf_file": []
+  },
+  {
+    "Turn": 240,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 241,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm not sure but I do know that they train dogs to perform a variety of tasks.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 242,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 243,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-34-22.trig"
+    ]
+  },
+  {
+    "Turn": 244,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about I before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 245,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-34-25.trig"
+    ]
+  },
+  {
+    "Turn": 246,
+    "Speaker": "Leolani",
+    "Response": "I just learned something, I had never heard about I before! . If you don't mind me asking. What types of Instance like dog do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 247,
+    "Speaker": "BLENDERBOT",
+    "Response": "Dog Instance is a group that teaches dogs how to perform certain tasks.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 248,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 249,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-34-38.trig"
+    ]
+  },
+  {
+    "Turn": 250,
+    "Speaker": "Leolani",
+    "Response": "This is news to me. I had never heard about pet before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 251,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-34-42.trig"
+    ]
+  },
+  {
+    "Turn": 252,
+    "Speaker": "Leolani",
+    "Response": "This is news to me. I had never heard about pet before! . I did not know that! I had never heard about dog before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 253,
+    "Speaker": "BLENDERBOT",
+    "Response": "Dogs are man 's best friend.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 254,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 255,
+    "Speaker": "BLENDERBOT",
+    "Response": "They were the first species to be domesticated and have been selectively bred over millennia for various behaviors",
+    "rdf_file": []
+  },
+  {
+    "Turn": 256,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 257,
+    "Speaker": "BLENDERBOT",
+    "Response": "They were the first species to be domesticated and have been selectively bred over millennia for various behaviors sensory capabilities",
+    "rdf_file": []
+  },
+  {
+    "Turn": 258,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 259,
+    "Speaker": "BLENDERBOT",
+    "Response": "They were the first species to be domesticated and have been selectively bred over millennia for various behaviors sensory capabilities and physical attributes.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 260,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 261,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-35-01.trig"
+    ]
+  },
+  {
+    "Turn": 262,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 263,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-35-04.trig"
+    ]
+  },
+  {
+    "Turn": 264,
+    "Speaker": "Leolani",
+    "Response": "I know. blenderbot told me about it in 2022 05 03T00:00:00 . I did not know that! I am excited to get to know about you! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 265,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm excited for you as well !",
+    "rdf_file": []
+  },
+  {
+    "Turn": 266,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 267,
+    "Speaker": "BLENDERBOT",
+    "Response": "I 'm sure you 'll have a great time.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-35-13.trig"
+    ]
+  },
+  {
+    "Turn": 268,
+    "Speaker": "Leolani",
+    "Response": "I am curious. What types of Instance like time do Instance usually have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 269,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well",
+    "rdf_file": []
+  },
+  {
+    "Turn": 270,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 271,
+    "Speaker": "BLENDERBOT",
+    "Response": "Well it 's basically a program that teaches you how to do a lot of different things.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 272,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 273,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-35-29.trig"
+    ]
+  },
+  {
+    "Turn": 274,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I had never heard about I before! . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 275,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-35-41.trig"
+    ]
+  },
+  {
+    "Turn": 276,
+    "Speaker": "Leolani",
+    "Response": "I did not know that! I had never heard about I before! . That rings a bell. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 277,
+    "Speaker": "BLENDERBOT",
+    "Response": "Wow",
+    "rdf_file": []
+  },
+  {
+    "Turn": 278,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 279,
+    "Speaker": "BLENDERBOT",
+    "Response": "Wow that 's a long time ago.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 280,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 281,
+    "Speaker": "BLENDERBOT",
+    "Response": "I wonder if it 's still around today.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 282,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 283,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-36-06.trig"
+    ]
+  },
+  {
+    "Turn": 284,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can leolani have . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 285,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-36-18.trig"
+    ]
+  },
+  {
+    "Turn": 286,
+    "Speaker": "Leolani",
+    "Response": "If you don't mind me asking. What types can leolani have . I have heard this before. blenderbot told me about it in 2022 05 03T00:00:00 . ",
+    "rdf_file": []
+  },
+  {
+    "Turn": 287,
+    "Speaker": "BLENDERBOT",
+    "Response": "They can be made from cotton",
+    "rdf_file": []
+  },
+  {
+    "Turn": 288,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 289,
+    "Speaker": "BLENDERBOT",
+    "Response": "They can be made from cotton rice",
+    "rdf_file": []
+  },
+  {
+    "Turn": 290,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 291,
+    "Speaker": "BLENDERBOT",
+    "Response": "They can be made from cotton rice wheat",
+    "rdf_file": []
+  },
+  {
+    "Turn": 292,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 293,
+    "Speaker": "BLENDERBOT",
+    "Response": "They can be made from cotton rice wheat or maize.",
+    "rdf_file": []
+  },
+  {
+    "Turn": 294,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 295,
+    "Speaker": "BLENDERBOT",
+    "Response": "Do you have any pets?",
+    "rdf_file": [
+      "brain_log_2022-05-03-15-36-46.trig"
+    ]
+  },
+  {
+    "Turn": 296,
+    "Speaker": "Leolani",
+    "Response": "",
+    "rdf_file": []
+  },
+  {
+    "Turn": 297,
+    "Speaker": "BLENDERBOT",
+    "Response": "I have a dog and he 's my best friend.",
+    "rdf_file": []
+  }
+]

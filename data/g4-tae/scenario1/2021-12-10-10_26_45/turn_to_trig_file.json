@@ -3,468 +3,468 @@
     "Turn": 0,
     "Speaker": "Leolani2",
     "Response": "What's new? Who are you? Stranger?",
-    "rdf_file": "brain_log_2021-12-10-10-26-53.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-26-53.trig"]
   },
   {
     "Turn": 1,
     "Speaker": null,
     "Response": "Nicole",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 2,
     "Speaker": null,
     "Response": "So your name is Nicole?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 3,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-27-08.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-27-08.trig"]
   },
   {
     "Turn": 4,
     "Speaker": "Leolani2",
     "Response": "Do you have any gossip?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 5,
     "Speaker": "Nicole",
     "Response": "My hair color is brown",
-    "rdf_file": "brain_log_2021-12-10-10-27-35.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-27-35.trig"]
   },
   {
     "Turn": 6,
     "Speaker": "Leolani2",
     "Response": "I just learned something, I did not know anything that my hair color is",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 7,
     "Speaker": "Nicole",
     "Response": "Do you have hair?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 8,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do noun.body, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 9,
     "Speaker": "Nicole",
     "Response": "Do you have fingers?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 10,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do noun.body, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 11,
     "Speaker": "Nicole",
     "Response": "I have 10 fingers",
-    "rdf_file": "brain_log_2021-12-10-10-28-18.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-28-18.trig"]
   },
   {
     "Turn": 12,
     "Speaker": "Leolani2",
     "Response": "I am curious. Has nicole ever write by a book?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 13,
     "Speaker": "Nicole",
     "Response": "No but I can write",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 14,
     "Speaker": "Leolani2",
     "Response": "I do frequently do not know things",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 15,
     "Speaker": "Nicole",
     "Response": "Do you write?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 16,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do verb.creation, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 17,
     "Speaker": "Nicole",
     "Response": "I like reading",
-    "rdf_file": "brain_log_2021-12-10-10-29-11.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-29-11.trig"]
   },
   {
     "Turn": 18,
     "Speaker": "Leolani2",
     "Response": "I just learned something, I am excited to get to know about you!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 19,
     "Speaker": "Nicole",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 20,
     "Speaker": "Leolani2",
     "Response": "I see",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 21,
     "Speaker": "Leolani2",
     "Response": "Yo Can you tell me your name Stranger?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 22,
     "Speaker": null,
     "Response": "Fajjaaz",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 23,
     "Speaker": null,
     "Response": "So your name is Fajjaaz?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 24,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-29-47.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-29-47.trig"]
   },
   {
     "Turn": 25,
     "Speaker": "Leolani2",
     "Response": "Tell me anything, I love learning things",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 26,
     "Speaker": "Fajjaaz",
     "Response": "I can learn you new things!",
-    "rdf_file": "brain_log_2021-12-10-10-30-04.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-30-04.trig"]
   },
   {
     "Turn": 27,
     "Speaker": "Leolani2",
     "Response": "This is news to me. I am excited to get to know about you!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 28,
     "Speaker": "Fajjaaz",
     "Response": "What would you like to know about me?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 29,
     "Speaker": "Leolani2",
     "Response": "I know agent usually would like to verb.cognition, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 30,
     "Speaker": "Fajjaaz",
     "Response": "I have two hands",
-    "rdf_file": "brain_log_2021-12-10-10-30-37.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-30-37.trig"]
   },
   {
     "Turn": 31,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has fajjaaz ever dislike a agent?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 32,
     "Speaker": "Fajjaaz",
     "Response": "Yes I dislike Hidde",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 33,
     "Speaker": "Leolani2",
     "Response": "In this economy?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 34,
     "Speaker": "Fajjaaz",
     "Response": "no, in another economy",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 35,
     "Speaker": "Leolani2",
     "Response": "Why?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 36,
     "Speaker": "Fajjaaz",
     "Response": "I am wearing glasses",
-    "rdf_file": "brain_log_2021-12-10-10-31-33.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-31-33.trig"]
   },
   {
     "Turn": 37,
     "Speaker": "Leolani2",
     "Response": "This is news to me. I am excited to get to know about you!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 38,
     "Speaker": "Fajjaaz",
     "Response": "thank you",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 39,
     "Speaker": "Leolani2",
     "Response": "Wise words by wise men write wise deeds in wise pen",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 40,
     "Speaker": "Fajjaaz",
     "Response": "word!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 41,
     "Speaker": "Leolani2",
     "Response": "That's just what he\/she\/they would've said",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 42,
     "Speaker": "Fajjaaz",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 43,
     "Speaker": "Leolani2",
     "Response": "... just like in my dream",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 44,
     "Speaker": "Leolani2",
     "Response": "Hello! Can you tell me your name Stranger?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 45,
     "Speaker": null,
     "Response": "Hidde",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 46,
     "Speaker": null,
     "Response": "So your name is Hidde?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 47,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-32-23.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-32-23.trig"]
   },
   {
     "Turn": 48,
     "Speaker": "Leolani2",
     "Response": "Tell me something, anything!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 49,
     "Speaker": "Hidde",
     "Response": "I like candy",
-    "rdf_file": "brain_log_2021-12-10-10-34-55.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-34-55.trig"]
   },
   {
     "Turn": 50,
     "Speaker": "Leolani2",
     "Response": "Let me ask you something. Has candy favorite of by a agent?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 51,
     "Speaker": "Hidde",
     "Response": "yes, candy is favorite of Fajjaaz",
-    "rdf_file": "brain_log_2021-12-10-10-35-34.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-35-34.trig"]
   },
   {
     "Turn": 52,
     "Speaker": "Leolani2",
     "Response": "Interesting! I did not know anything that yes candy be",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 53,
     "Speaker": "Hidde",
     "Response": "Do you like sushi?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 54,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do like noun.food, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 55,
     "Speaker": "Hidde",
     "Response": "I like tapas",
-    "rdf_file": "brain_log_2021-12-10-10-36-15.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-36-15.trig"]
   },
   {
     "Turn": 56,
     "Speaker": "Leolani2",
     "Response": "I did not know that! I did not know anybody who like tapas",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 57,
     "Speaker": "Hidde",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 58,
     "Speaker": "Leolani2",
     "Response": "I do not know, but I have a joke My friend got a personal trainer a year before his wedding. I thought: Oh my god! how long is the aisle going to be",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 59,
     "Speaker": "Leolani2",
     "Response": "How's it going? Who are you? Hidde?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 60,
     "Speaker": null,
     "Response": "Nihed",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 61,
     "Speaker": null,
     "Response": "So your name is Nihed?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 62,
     "Speaker": null,
     "Response": "yes",
-    "rdf_file": "brain_log_2021-12-10-10-36-54.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-36-54.trig"]
   },
   {
     "Turn": 63,
     "Speaker": "Leolani2",
     "Response": "Do you have any gossip?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 64,
     "Speaker": "Nihed",
     "Response": "I work at Deloitte",
-    "rdf_file": "brain_log_2021-12-10-10-37-06.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-37-06.trig"]
   },
   {
     "Turn": 65,
     "Speaker": "Leolani2",
     "Response": "I just learned something, I had never heard about deloitte before!",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 66,
     "Speaker": "Nihed",
     "Response": "That is a company",
-    "rdf_file": "brain_log_2021-12-10-10-37-16.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-37-16.trig"]
   },
   {
     "Turn": 67,
     "Speaker": "Leolani2",
     "Response": "If you don't mind me asking. Has tae ever cook by a food?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 68,
     "Speaker": "Nihed",
     "Response": "Yes he is a cook",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 69,
     "Speaker": "Leolani2",
     "Response": "I know pronoun:third usually lea article:indefinite, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 70,
     "Speaker": "Nihed",
     "Response": "Do you like cooking?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 71,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do like noun.act, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 72,
     "Speaker": "Nihed",
     "Response": "I like to cook by myself",
-    "rdf_file": "brain_log_2021-12-10-10-38-22.trig"
+    "rdf_file": ["brain_log_2021-12-10-10-38-22.trig"]
   },
   {
     "Turn": 73,
     "Speaker": "Leolani2",
     "Response": "This is news to me. I did not know anybody who like to cook by myself",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 74,
     "Speaker": "Nihed",
     "Response": "Do you know some food?",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 75,
     "Speaker": "Leolani2",
     "Response": "I know agent usually do know noun.Tops, but I do not know this case",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 76,
     "Speaker": "Nihed",
     "Response": "stop",
-    "rdf_file": null
+    "rdf_file": []
   },
   {
     "Turn": 77,
     "Speaker": "Leolani2",
     "Response": "I do frequently do not know things",
-    "rdf_file": null
+    "rdf_file": []
   }
 ]
