@@ -1,6 +1,6 @@
 # evaluating-coversations-as-ekg
 
-Repository for experiments on evaluating the brain according to the @Leolani framework
+Repository for experiments on evaluating the conversations modelled as episodic knowledge graphs, according to the @Leolani framework
 
 ## Overview
 
@@ -21,10 +21,11 @@ of each scenario is the following:
 
 In the `src` folder you will find the following:
 
-| Folders                   | Description     |
-| ------------------------- | :-------------- |
-| \\dialogue_evaluations     | Code to average and correlate human and automatic annotations |
-| \\graph_evaluations       | Code to recreate conversations through RDF files, and compute metrics about the graphs |
+| Folders                | Description                                                                              |
+|------------------------|:-----------------------------------------------------------------------------------------|
+| \\dialogue_creation    | Code to generate episodic knowledge graphs for human-human dialogues in the MELD dataset |
+| \\dialogue_evaluations | Code to average and correlate human and automatic annotations                            |
+| \\graph_evaluations    | Code to recreate conversations through RDF files, and compute metrics about the graphs   |
 
 To rerun the graph metric calculations, run `evaluate_rdf_scenarios.py` using one of the available configurations
 in `resources/running_configs.txt`. To only recreate the plots, run `plot_rdf_scenarios.ipynb`.
@@ -42,38 +43,6 @@ pip install --upgrade pip
 pip install -r requirements.txt --no-cache
 python -m ipykernel install --name=evaluating-coversations-as-ekg
 ```
-
-[comment]: <> (TO DO:)
-
-[comment]: <> (- [Lea - done] Look at the cltl-chatbots repo, follow install using requirements.txt  &#40;use the old triple extractor so)
-
-[comment]: <> (  we can compare to student conversations&#41;)
-
-[comment]: <> (- [Lea - done] Figure out bug)
-
-[comment]: <> (  in [Blenderbot]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb&#41;)
-
-[comment]: <> (- [Lea - current] Figure out bug)
-
-[comment]: <> (  in [DialogueGPT]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/conversation_between_dialogueGpt_and_Leolani.ipynb&#41;)
-
-[comment]: <> (TO ASSIGN:)
-
-[comment]: <> (- Adapt [script]&#40;https://github.com/leolani/cltl-chatbots/blob/main/src/notebooks/lets-chat_with_a_brain_replier.ipynb&#41;)
-
-[comment]: <> (  to chat with Blenderbot or DialogueGPT instead of user input. This script is a sample showing how to save data to)
-
-[comment]: <> (  EMISSOR and how to connect the CLTL packages)
-
-[comment]: <> (- Run automatic evaluations of Blenderbot or DialogueGPT conversations. This also saves them as csv with columns ready)
-
-[comment]: <> (  for human evaluation.)
-
-[comment]: <> (- Run graph evaluations of Blenderbot or DialogueGPT conversations)
-
-[comment]: <> (Notes for to do:)
-
-[comment]: <> (- Keep track of when you clear brain and when you continue on the same brain)
 
 ## Authors
 
