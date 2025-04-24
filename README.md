@@ -34,11 +34,11 @@ In the `src` folder you will find the following:
 This repository uses Python >= 3.7. The following is the recommended set up for this project.
 
 ```
-conda create --name evaluating-coversations-as-ekg python=3.7
-conda activate evaluating-coversations-as-ekg
+conda create --name evaluating-conversations-as-ekg python=3.9
+conda activate evaluating-conversations-as-ekg
 pip install --upgrade pip
 pip install -r requirements.txt --no-cache
-python -m ipykernel install --name=evaluating-coversations-as-ekg
+python -m ipykernel install --name=evaluating-conversations-as-ekg
 ```
 
 ### Reproducibility

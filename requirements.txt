@@ -1,5 +1,5 @@
 jupyterlab
-# cltl.brain==pin version
+# cltl.brain==1.0.dev1
 pandas
 matplotlib
 seaborn
